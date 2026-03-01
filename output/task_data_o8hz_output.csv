@@ -1,0 +1,769 @@
+Local Date and Time,Participant Public ID,Participant Private ID,randomiser-wqo5,Trial Number,Response,Onset Time,Object Name,Object Number,Spreadsheet: Trial#,Spreadsheet: Audio
+17/02/2026 16:58:56,3sq66wle,15178530,Version1-raw,1,audio started,1519.199999999997,Audio Clip,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+17/02/2026 16:58:58,3sq66wle,15178530,Version1-raw,1,o.png,2578.699999999997,O,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+17/02/2026 16:58:59,3sq66wle,15178530,Version1-raw,2,audio started,1509.0000000001892,Audio Clip,2,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:00,3sq66wle,15178530,Version1-raw,2,a.png,2714.300000000003,A,1,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:02,3sq66wle,15178530,Version1-raw,3,audio started,1505.099999999904,Audio Clip,2,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+17/02/2026 16:59:03,3sq66wle,15178530,Version1-raw,3,a.png,2576.9000000001834,A,1,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+17/02/2026 16:59:04,3sq66wle,15178530,Version1-raw,4,audio started,1521.4999999999127,Audio Clip,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:05,3sq66wle,15178530,Version1-raw,4,o.png,2350.100000000006,O,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:07,3sq66wle,15178530,Version1-raw,5,audio started,1505.0000000002765,Audio Clip,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:07,3sq66wle,15178530,Version1-raw,5,o.png,2377.80000000009,O,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:09,3sq66wle,15178530,Version1-raw,6,audio started,1521.7000000001863,Audio Clip,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:10,3sq66wle,15178530,Version1-raw,6,o.png,2516.7999999999884,O,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:11,3sq66wle,15178530,Version1-raw,7,audio started,1520.1000000000931,Audio Clip,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+17/02/2026 16:59:13,3sq66wle,15178530,Version1-raw,7,o.png,2999.100000000093,O,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+17/02/2026 16:59:14,3sq66wle,15178530,Version1-raw,8,audio started,1520.3000000001048,Audio Clip,2,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:16,3sq66wle,15178530,Version1-raw,8,a.png,2630.0999999999185,A,1,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:17,3sq66wle,15178530,Version1-raw,9,audio started,1521.7000000002736,Audio Clip,2,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:18,3sq66wle,15178530,Version1-raw,9,a.png,2741.799999999901,A,1,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:20,3sq66wle,15178530,Version1-raw,10,audio started,1522.000000000291,Audio Clip,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:21,3sq66wle,15178530,Version1-raw,10,o.png,2666.5999999999767,O,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:22,3sq66wle,15178530,Version1-raw,11,audio started,1504.400000000198,Audio Clip,2,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:24,3sq66wle,15178530,Version1-raw,11,a.png,2783.3000000000175,A,1,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:25,3sq66wle,15178530,Version1-raw,12,audio started,1521.3000000002794,Audio Clip,2,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+17/02/2026 16:59:26,3sq66wle,15178530,Version1-raw,12,a.png,2529,A,1,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+17/02/2026 16:59:28,3sq66wle,15178530,Version1-raw,13,audio started,1520.1000000002678,Audio Clip,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:29,3sq66wle,15178530,Version1-raw,13,o.png,2632.4000000000815,O,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:30,3sq66wle,15178530,Version1-raw,14,audio started,1503.6000000000058,Audio Clip,2,77,[MONO] HSS_nija_analyzable.mp3
+17/02/2026 16:59:32,3sq66wle,15178530,Version1-raw,14,a.png,2666.200000000099,A,1,77,[MONO] HSS_nija_analyzable.mp3
+17/02/2026 16:59:33,3sq66wle,15178530,Version1-raw,15,audio started,1503.5999999999185,Audio Clip,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:34,3sq66wle,15178530,Version1-raw,15,o.png,2466.7999999999884,O,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:35,3sq66wle,15178530,Version1-raw,16,audio started,1520.1000000000058,Audio Clip,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+17/02/2026 16:59:37,3sq66wle,15178530,Version1-raw,16,no-se.png,3281.700000000099,No se,3,88,[MONO] ASI_sato_unanalyzable2.mp3
+17/02/2026 16:59:39,3sq66wle,15178530,Version1-raw,17,audio started,1520.6000000000931,Audio Clip,2,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:40,3sq66wle,15178530,Version1-raw,17,a.png,2512.3000000002794,A,1,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:41,3sq66wle,15178530,Version1-raw,18,audio started,1520.2000000002736,Audio Clip,2,90,[MONO] HSS_fada_unanalyzable2.mp3
+17/02/2026 16:59:42,3sq66wle,15178530,Version1-raw,18,no-se.png,2679.1000000001804,No se,3,90,[MONO] HSS_fada_unanalyzable2.mp3
+17/02/2026 16:59:44,3sq66wle,15178530,Version1-raw,19,audio started,1503.6000000001804,Audio Clip,2,73,[MONO] HSS_fada_analyzable.mp3
+17/02/2026 16:59:45,3sq66wle,15178530,Version1-raw,19,no-se.png,2811.899999999994,No se,3,73,[MONO] HSS_fada_analyzable.mp3
+17/02/2026 16:59:47,3sq66wle,15178530,Version1-raw,20,audio started,1504.799999999901,Audio Clip,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:48,3sq66wle,15178530,Version1-raw,20,o.png,2444.799999999901,O,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:49,3sq66wle,15178530,Version1-raw,21,audio started,1521.2000000002736,Audio Clip,2,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:50,3sq66wle,15178530,Version1-raw,21,a.png,2514.899999999994,A,1,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 16:59:52,3sq66wle,15178530,Version1-raw,22,audio started,1520.0000000000873,Audio Clip,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:53,3sq66wle,15178530,Version1-raw,22,o.png,2478.799999999901,O,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 16:59:54,3sq66wle,15178530,Version1-raw,23,audio started,1503.7999999999884,Audio Clip,2,69,[MONO] HSS_sato_analyzable.mp3
+17/02/2026 16:59:55,3sq66wle,15178530,Version1-raw,23,o.png,2749.899999999994,O,2,69,[MONO] HSS_sato_analyzable.mp3
+17/02/2026 16:59:57,3sq66wle,15178530,Version1-raw,24,audio started,1519.2000000001863,Audio Clip,2,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 16:59:58,3sq66wle,15178530,Version1-raw,24,a.png,2666.7999999999884,A,1,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:00:01,3sq66wle,15178530,Version1-raw,25,audio started,1520.2000000002736,Audio Clip,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:02,3sq66wle,15178530,Version1-raw,25,o.png,3049.7000000000116,O,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:04,3sq66wle,15178530,Version1-raw,26,audio started,1521.1999999998952,Audio Clip,2,94,[MONO] HSS_kecha_unanalyzable2.mp3
+17/02/2026 17:00:05,3sq66wle,15178530,Version1-raw,26,a.png,2624.1000000002678,A,1,94,[MONO] HSS_kecha_unanalyzable2.mp3
+17/02/2026 17:00:06,3sq66wle,15178530,Version1-raw,27,audio started,1520.3999999999069,Audio Clip,2,65,[MONO] HSS_fado_analyzable.mp3
+17/02/2026 17:00:08,3sq66wle,15178530,Version1-raw,27,o.png,2848.7000000001863,O,2,65,[MONO] HSS_fado_analyzable.mp3
+17/02/2026 17:00:09,3sq66wle,15178530,Version1-raw,28,audio started,1503.400000000198,Audio Clip,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+17/02/2026 17:00:10,3sq66wle,15178530,Version1-raw,28,o.png,2180.2000000000116,O,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+17/02/2026 17:00:11,3sq66wle,15178530,Version1-raw,29,audio started,1520.1000000001804,Audio Clip,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:12,3sq66wle,15178530,Version1-raw,29,o.png,2183.100000000006,O,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:13,3sq66wle,15178530,Version1-raw,30,audio started,1519.3999999999942,Audio Clip,2,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:00:15,3sq66wle,15178530,Version1-raw,30,a.png,2933.399999999965,A,1,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:00:16,3sq66wle,15178530,Version1-raw,31,audio started,1514.7000000000116,Audio Clip,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:17,3sq66wle,15178530,Version1-raw,31,o.png,2246.400000000198,O,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:19,3sq66wle,15178530,Version1-raw,32,audio started,1521.3999999999942,Audio Clip,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+17/02/2026 17:00:20,3sq66wle,15178530,Version1-raw,32,o.png,2980.399999999994,O,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+17/02/2026 17:00:22,3sq66wle,15178530,Version1-raw,33,audio started,1522.400000000198,Audio Clip,2,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:00:23,3sq66wle,15178530,Version1-raw,33,a.png,2649.9000000000233,A,1,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:00:24,3sq66wle,15178530,Version1-raw,34,audio started,1507.799999999901,Audio Clip,2,91,[MONO] ASI_noga_unanalyzable1.mp3
+17/02/2026 17:00:26,3sq66wle,15178530,Version1-raw,34,no-se.png,2882.1000000001804,No se,3,91,[MONO] ASI_noga_unanalyzable1.mp3
+17/02/2026 17:00:27,3sq66wle,15178530,Version1-raw,35,audio started,1520.6000000001804,Audio Clip,2,72,[MONO] ASI_nijo_analyzable.mp3
+17/02/2026 17:00:29,3sq66wle,15178530,Version1-raw,35,no-se.png,3046.6000000001804,No se,3,72,[MONO] ASI_nijo_analyzable.mp3
+17/02/2026 17:00:30,3sq66wle,15178530,Version1-raw,36,audio started,1520.799999999901,Audio Clip,2,67,[MONO] ASI_bleno_analyzable.mp3
+17/02/2026 17:00:31,3sq66wle,15178530,Version1-raw,36,o.png,2660.6000000001804,O,2,67,[MONO] ASI_bleno_analyzable.mp3
+17/02/2026 17:00:33,3sq66wle,15178530,Version1-raw,37,audio started,1522.0000000000873,Audio Clip,2,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+17/02/2026 17:00:34,3sq66wle,15178530,Version1-raw,37,a.png,2925.6000000001804,A,1,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+17/02/2026 17:00:36,3sq66wle,15178530,Version1-raw,38,audio started,1519.9000000000815,Audio Clip,2,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+17/02/2026 17:00:37,3sq66wle,15178530,Version1-raw,38,a.png,2477.199999999895,A,1,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+17/02/2026 17:00:38,3sq66wle,15178530,Version1-raw,39,audio started,1520.200000000099,Audio Clip,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+17/02/2026 17:00:39,3sq66wle,15178530,Version1-raw,39,o.png,2377.700000000099,O,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+17/02/2026 17:00:40,3sq66wle,15178530,Version1-raw,40,audio started,1520.1999999998952,Audio Clip,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:41,3sq66wle,15178530,Version1-raw,40,o.png,2346.199999999895,O,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:43,3sq66wle,15178530,Version1-raw,41,audio started,1522.7999999999884,Audio Clip,2,68,[MONO] ASI_crolo_analyzable.mp3
+17/02/2026 17:00:44,3sq66wle,15178530,Version1-raw,41,o.png,2781.6000000002678,O,2,68,[MONO] ASI_crolo_analyzable.mp3
+17/02/2026 17:00:46,3sq66wle,15178530,Version1-raw,42,audio started,1502.8000000002794,Audio Clip,2,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:47,3sq66wle,15178530,Version1-raw,42,a.png,2616.7000000000116,A,1,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:48,3sq66wle,15178530,Version1-raw,43,audio started,1520.2000000002736,Audio Clip,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:00:49,3sq66wle,15178530,Version1-raw,43,o.png,2088.399999999994,O,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:00:50,3sq66wle,15178530,Version1-raw,44,audio started,1519.0000000001746,Audio Clip,2,74,[MONO] HSS_noga_analyzable.mp3
+17/02/2026 17:00:52,3sq66wle,15178530,Version1-raw,44,a.png,3117.5000000001746,A,1,74,[MONO] HSS_noga_analyzable.mp3
+17/02/2026 17:00:53,3sq66wle,15178530,Version1-raw,45,audio started,1519.9000000002852,Audio Clip,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:54,3sq66wle,15178530,Version1-raw,45,o.png,2337.400000000285,O,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:56,3sq66wle,15178530,Version1-raw,46,audio started,1524.0999999999185,Audio Clip,2,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:56,3sq66wle,15178530,Version1-raw,46,a.png,2316.899999999994,A,1,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:58,3sq66wle,15178530,Version1-raw,47,audio started,1519.6000000000058,Audio Clip,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:00:59,3sq66wle,15178530,Version1-raw,47,o.png,2100.000000000029,O,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:01:00,3sq66wle,15178530,Version1-raw,48,audio started,1519.9000000000815,Audio Clip,2,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:01:01,3sq66wle,15178530,Version1-raw,48,a.png,2579.0000000001746,A,1,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:01:05,3sq66wle,15178530,Version1-raw,49,audio started,1505.3000000002794,Audio Clip,2,95,[MONO] HSS_sata_unanalyzable.mp3
+17/02/2026 17:01:06,3sq66wle,15178530,Version1-raw,49,no-se.png,2616.600000000006,No se,3,95,[MONO] HSS_sata_unanalyzable.mp3
+17/02/2026 17:01:07,3sq66wle,15178530,Version1-raw,50,audio started,1521.799999999901,Audio Clip,2,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+17/02/2026 17:01:08,3sq66wle,15178530,Version1-raw,50,o.png,2307.6000000001804,O,2,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+17/02/2026 17:01:10,3sq66wle,15178530,Version1-raw,51,audio started,1505.8999999999069,Audio Clip,2,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:01:11,3sq66wle,15178530,Version1-raw,51,a.png,2845.7000000001863,A,1,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:01:13,3sq66wle,15178530,Version1-raw,52,audio started,1521.3000000001048,Audio Clip,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:01:14,3sq66wle,15178530,Version1-raw,52,o.png,2550.000000000029,O,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:01:15,3sq66wle,15178530,Version1-raw,53,audio started,1502.8999999999942,Audio Clip,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+17/02/2026 17:01:16,3sq66wle,15178530,Version1-raw,53,o.png,2334.000000000029,O,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+17/02/2026 17:01:17,3sq66wle,15178530,Version1-raw,54,audio started,1521.6999999998952,Audio Clip,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:18,3sq66wle,15178530,Version1-raw,54,o.png,2165.7999999999884,O,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:20,3sq66wle,15178530,Version1-raw,55,audio started,1519.9000000002561,Audio Clip,2,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:21,3sq66wle,15178530,Version1-raw,55,a.png,2506.800000000163,A,1,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:22,3sq66wle,15178530,Version1-raw,56,audio started,1522.400000000198,Audio Clip,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+17/02/2026 17:01:23,3sq66wle,15178530,Version1-raw,56,o.png,2484,O,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+17/02/2026 17:01:25,3sq66wle,15178530,Version1-raw,57,audio started,1518.7000000000116,Audio Clip,2,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:26,3sq66wle,15178530,Version1-raw,57,a.png,2533.000000000058,A,1,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:27,3sq66wle,15178530,Version1-raw,58,audio started,1520.1000000002678,Audio Clip,2,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:29,3sq66wle,15178530,Version1-raw,58,a.png,3048.1000000002678,A,1,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:30,3sq66wle,15178530,Version1-raw,59,audio started,1531.8000000002794,Audio Clip,2,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:31,3sq66wle,15178530,Version1-raw,59,a.png,2396.8000000002794,A,1,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:32,3sq66wle,15178530,Version1-raw,60,audio started,1504.5000000001746,Audio Clip,2,96,[MONO] ASI_sata_unanalyzable.mp3
+17/02/2026 17:01:34,3sq66wle,15178530,Version1-raw,60,no-se.png,3217.29999999993,No se,3,96,[MONO] ASI_sata_unanalyzable.mp3
+17/02/2026 17:01:36,3sq66wle,15178530,Version1-raw,61,audio started,1506.1000000002095,Audio Clip,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:37,3sq66wle,15178530,Version1-raw,61,o.png,2493.4000000000233,O,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:38,3sq66wle,15178530,Version1-raw,62,audio started,1518.2999999999302,Audio Clip,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+17/02/2026 17:01:39,3sq66wle,15178530,Version1-raw,62,o.png,2457.29999999993,O,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+17/02/2026 17:01:41,3sq66wle,15178530,Version1-raw,63,audio started,1521.0000000001164,Audio Clip,2,79,[MONO] ASI_gapa_analyzable.mp3
+17/02/2026 17:01:43,3sq66wle,15178530,Version1-raw,63,a.png,3950.100000000035,A,1,79,[MONO] ASI_gapa_analyzable.mp3
+17/02/2026 17:01:45,3sq66wle,15178530,Version1-raw,64,audio started,1522.2000000001863,Audio Clip,2,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:45,3sq66wle,15178530,Version1-raw,64,a.png,2226.8000000002794,A,1,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:47,3sq66wle,15178530,Version1-raw,65,audio started,1505.2999999999302,Audio Clip,2,66,[MONO] HSS_nogo_analyzable.mp3
+17/02/2026 17:01:48,3sq66wle,15178530,Version1-raw,65,o.png,2583.500000000058,O,2,66,[MONO] HSS_nogo_analyzable.mp3
+17/02/2026 17:01:49,3sq66wle,15178530,Version1-raw,66,audio started,1521.7000000000698,Audio Clip,2,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:50,3sq66wle,15178530,Version1-raw,66,a.png,2266.8000000000466,A,1,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:01:52,3sq66wle,15178530,Version1-raw,67,audio started,1521.4999999998836,Audio Clip,2,70,[MONO] ASI_gapo_analyzable.mp3
+17/02/2026 17:01:53,3sq66wle,15178530,Version1-raw,67,o.png,2430.900000000256,O,2,70,[MONO] ASI_gapo_analyzable.mp3
+17/02/2026 17:01:54,3sq66wle,15178530,Version1-raw,68,audio started,1522.2000000001863,Audio Clip,2,76,[MONO] ASI_crola_analyzable.mp3
+17/02/2026 17:01:56,3sq66wle,15178530,Version1-raw,68,a.png,3093.7000000001863,A,1,76,[MONO] ASI_crola_analyzable.mp3
+17/02/2026 17:01:57,3sq66wle,15178530,Version1-raw,69,audio started,1519.8999999999069,Audio Clip,2,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:01:58,3sq66wle,15178530,Version1-raw,69,a.png,2512.899999999907,A,1,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:02:00,3sq66wle,15178530,Version1-raw,70,audio started,1502.900000000198,Audio Clip,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:02:01,3sq66wle,15178530,Version1-raw,70,o.png,2832.000000000291,O,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:02:02,3sq66wle,15178530,Version1-raw,71,audio started,1505.3000000002794,Audio Clip,2,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:02:04,3sq66wle,15178530,Version1-raw,71,no-se.png,2600.2000000000116,No se,3,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:02:05,3sq66wle,15178530,Version1-raw,72,audio started,1521.8000000002794,Audio Clip,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:02:06,3sq66wle,15178530,Version1-raw,72,o.png,2366.600000000035,O,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:02:08,3sq66wle,15178530,Version1-raw,73,audio started,1504.2999999999884,Audio Clip,2,75,[MONO] ASI_blena_analyzable.mp3
+17/02/2026 17:02:10,3sq66wle,15178530,Version1-raw,73,a.png,2697.7999999999884,A,1,75,[MONO] ASI_blena_analyzable.mp3
+17/02/2026 17:02:11,3sq66wle,15178530,Version1-raw,74,audio started,1503.2999999999302,Audio Clip,2,86,[MONO] ASI_kecho_unanalyable.mp3
+17/02/2026 17:02:13,3sq66wle,15178530,Version1-raw,74,no-se.png,3295.29999999993,No se,3,86,[MONO] ASI_kecho_unanalyable.mp3
+17/02/2026 17:02:14,3sq66wle,15178530,Version1-raw,75,audio started,1523,Audio Clip,2,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+17/02/2026 17:02:17,3sq66wle,15178530,Version1-raw,75,a.png,3766.7000000000116,A,1,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+17/02/2026 17:02:18,3sq66wle,15178530,Version1-raw,76,audio started,1505.3000000002794,Audio Clip,2,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:19,3sq66wle,15178530,Version1-raw,76,a.png,2364.3000000002794,A,1,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:21,3sq66wle,15178530,Version1-raw,77,audio started,1519.5999999999185,Audio Clip,2,71,[MONO] ASI_kecho_analyzable.mp3
+17/02/2026 17:02:22,3sq66wle,15178530,Version1-raw,77,no-se.png,3482.000000000291,No se,3,71,[MONO] ASI_kecho_analyzable.mp3
+17/02/2026 17:02:24,3sq66wle,15178530,Version1-raw,78,audio started,1503.6000000000931,Audio Clip,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+17/02/2026 17:02:25,3sq66wle,15178530,Version1-raw,78,o.png,2497,O,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+17/02/2026 17:02:26,3sq66wle,15178530,Version1-raw,79,audio started,1522.800000000163,Audio Clip,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:02:28,3sq66wle,15178530,Version1-raw,79,o.png,2616.5999999999767,O,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:02:29,3sq66wle,15178530,Version1-raw,80,audio started,1504.8000000001048,Audio Clip,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:30,3sq66wle,15178530,Version1-raw,80,o.png,2664.500000000291,O,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:32,3sq66wle,15178530,Version1-raw,81,audio started,1519.800000000163,Audio Clip,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:32,3sq66wle,15178530,Version1-raw,81,o.png,2150.0999999999767,O,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:34,3sq66wle,15178530,Version1-raw,82,audio started,1519.8000000001048,Audio Clip,2,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:02:35,3sq66wle,15178530,Version1-raw,82,a.png,2812.2000000000116,A,1,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:02:37,3sq66wle,15178530,Version1-raw,83,audio started,1518.6000000000931,Audio Clip,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:38,3sq66wle,15178530,Version1-raw,83,o.png,2514.7999999999884,O,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:39,3sq66wle,15178530,Version1-raw,84,audio started,1520.000000000291,Audio Clip,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+17/02/2026 17:02:40,3sq66wle,15178530,Version1-raw,84,o.png,2548.000000000291,O,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+17/02/2026 17:02:42,3sq66wle,15178530,Version1-raw,85,audio started,1521.3999999999069,Audio Clip,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:43,3sq66wle,15178530,Version1-raw,85,no-se.png,2744.399999999907,No se,3,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+17/02/2026 17:02:44,3sq66wle,15178530,Version1-raw,86,audio started,1521.9000000002561,Audio Clip,2,93,[MONO] HSS_kecha_unanalyzable1.mp3
+17/02/2026 17:02:46,3sq66wle,15178530,Version1-raw,86,a.png,2633.5999999999767,A,1,93,[MONO] HSS_kecha_unanalyzable1.mp3
+17/02/2026 17:02:47,3sq66wle,15178530,Version1-raw,87,audio started,1505.9000000000815,Audio Clip,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:02:48,3sq66wle,15178530,Version1-raw,87,no-se.png,2883.2999999999884,No se,3,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:02:50,3sq66wle,15178530,Version1-raw,88,audio started,1505.0999999999185,Audio Clip,2,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:02:51,3sq66wle,15178530,Version1-raw,88,a.png,2617,A,1,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:02:52,3sq66wle,15178530,Version1-raw,89,audio started,1521.2000000001863,Audio Clip,2,80,[MONO] ASI_kecha_analyzable.mp3
+17/02/2026 17:02:54,3sq66wle,15178530,Version1-raw,89,a.png,2557.3000000002794,A,1,80,[MONO] ASI_kecha_analyzable.mp3
+17/02/2026 17:02:55,3sq66wle,15178530,Version1-raw,90,audio started,1523.7000000000116,Audio Clip,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:02:57,3sq66wle,15178530,Version1-raw,90,o.png,3430.500000000291,O,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:02:58,3sq66wle,15178530,Version1-raw,91,audio started,1521.3000000002794,Audio Clip,2,89,[MONO] HSS_fada_unanalyzable1.mp3
+17/02/2026 17:03:00,3sq66wle,15178530,Version1-raw,91,a.png,2928.8000000002794,A,1,89,[MONO] HSS_fada_unanalyzable1.mp3
+17/02/2026 17:03:01,3sq66wle,15178530,Version1-raw,92,audio started,1521.4000000000815,Audio Clip,2,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:03:02,3sq66wle,15178530,Version1-raw,92,a.png,2497.5000000001746,A,1,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+17/02/2026 17:03:04,3sq66wle,15178530,Version1-raw,93,audio started,1522.6000000000931,Audio Clip,2,92,[MONO] ASI_noga_unanalyzable2.mp3
+17/02/2026 17:03:06,3sq66wle,15178530,Version1-raw,93,no-se.png,3256.7000000001863,No se,3,92,[MONO] ASI_noga_unanalyzable2.mp3
+17/02/2026 17:03:07,3sq66wle,15178530,Version1-raw,94,audio started,1505.1000000000931,Audio Clip,2,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:03:08,3sq66wle,15178530,Version1-raw,94,a.png,2633.1999999999534,A,1,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+17/02/2026 17:03:10,3sq66wle,15178530,Version1-raw,95,audio started,1521.6000000002095,Audio Clip,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:03:11,3sq66wle,15178530,Version1-raw,95,no-se.png,3000.100000000035,No se,3,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+17/02/2026 17:03:13,3sq66wle,15178530,Version1-raw,96,audio started,1503.2000000001863,Audio Clip,2,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+17/02/2026 17:03:14,3sq66wle,15178530,Version1-raw,96,o.png,2516.79999999993,O,2,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:37:20,kvczwcaf,15189282,Version1-raw,1,audio started,1501.600000005972,Audio Clip,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+18/02/2026 09:37:21,kvczwcaf,15189282,Version1-raw,1,o.png,2872.600000005972,O,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+18/02/2026 09:37:23,kvczwcaf,15189282,Version1-raw,2,audio started,1518.200000011915,Audio Clip,2,74,[MONO] HSS_noga_analyzable.mp3
+18/02/2026 09:37:24,kvczwcaf,15189282,Version1-raw,2,a.png,3438.700000011915,A,1,74,[MONO] HSS_noga_analyzable.mp3
+18/02/2026 09:37:26,kvczwcaf,15189282,Version1-raw,3,audio started,1500.8000000059546,Audio Clip,2,73,[MONO] HSS_fada_analyzable.mp3
+18/02/2026 09:37:28,kvczwcaf,15189282,Version1-raw,3,no-se.png,3439.500000023836,No se,3,73,[MONO] HSS_fada_analyzable.mp3
+18/02/2026 09:37:29,kvczwcaf,15189282,Version1-raw,4,audio started,1500.800000011921,Audio Clip,2,93,[MONO] HSS_kecha_unanalyzable1.mp3
+18/02/2026 09:37:31,kvczwcaf,15189282,Version1-raw,4,a.png,2972.5,A,1,93,[MONO] HSS_kecha_unanalyzable1.mp3
+18/02/2026 09:37:32,kvczwcaf,15189282,Version1-raw,5,audio started,1501.0000000178698,Audio Clip,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:37:34,kvczwcaf,15189282,Version1-raw,5,o.png,2772.700000005949,O,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:37:35,kvczwcaf,15189282,Version1-raw,6,audio started,1517.9000000059605,Audio Clip,2,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:37:36,kvczwcaf,15189282,Version1-raw,6,a.png,2773.100000023842,A,1,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:37:38,kvczwcaf,15189282,Version1-raw,7,audio started,1517.7000000000116,Audio Clip,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:37:39,kvczwcaf,15189282,Version1-raw,7,o.png,2639.600000005972,O,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:37:41,kvczwcaf,15189282,Version1-raw,8,audio started,1517.5000000178698,Audio Clip,2,71,[MONO] ASI_kecho_analyzable.mp3
+18/02/2026 09:37:42,kvczwcaf,15189282,Version1-raw,8,o.png,3138.700000005949,O,2,71,[MONO] ASI_kecho_analyzable.mp3
+18/02/2026 09:37:44,kvczwcaf,15189282,Version1-raw,9,audio started,1517.1000000178756,Audio Clip,2,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:37:45,kvczwcaf,15189282,Version1-raw,9,o.png,2389.000000023836,O,2,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:37:46,kvczwcaf,15189282,Version1-raw,10,audio started,1501.300000011921,Audio Clip,2,70,[MONO] ASI_gapo_analyzable.mp3
+18/02/2026 09:37:47,kvczwcaf,15189282,Version1-raw,10,o.png,2856.2000000178814,O,2,70,[MONO] ASI_gapo_analyzable.mp3
+18/02/2026 09:37:49,kvczwcaf,15189282,Version1-raw,11,audio started,1501.7000000000116,Audio Clip,2,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:37:50,kvczwcaf,15189282,Version1-raw,11,a.png,2357.2000000000116,A,1,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:37:51,kvczwcaf,15189282,Version1-raw,12,audio started,1501.3999999999942,Audio Clip,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:37:52,kvczwcaf,15189282,Version1-raw,12,o.png,2739.1000000178756,O,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:37:54,kvczwcaf,15189282,Version1-raw,13,audio started,1517.500000023836,Audio Clip,2,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+18/02/2026 09:37:56,kvczwcaf,15189282,Version1-raw,13,a.png,3157.000000023836,A,1,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+18/02/2026 09:37:57,kvczwcaf,15189282,Version1-raw,14,audio started,1500.8000000059546,Audio Clip,2,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:37:59,kvczwcaf,15189282,Version1-raw,14,a.png,2923.200000011915,A,1,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:38:00,kvczwcaf,15189282,Version1-raw,15,audio started,1518,Audio Clip,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:38:01,kvczwcaf,15189282,Version1-raw,15,o.png,2928.800000011921,O,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:38:03,kvczwcaf,15189282,Version1-raw,16,audio started,1501.7999999999884,Audio Clip,2,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:04,kvczwcaf,15189282,Version1-raw,16,a.png,2541.200000005949,A,1,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:05,kvczwcaf,15189282,Version1-raw,17,audio started,1501.2000000059488,Audio Clip,2,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+18/02/2026 09:38:06,kvczwcaf,15189282,Version1-raw,17,a.png,2239.6000000119093,A,1,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+18/02/2026 09:38:08,kvczwcaf,15189282,Version1-raw,18,audio started,1501.5,Audio Clip,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:09,kvczwcaf,15189282,Version1-raw,18,o.png,2706.100000023842,O,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:10,kvczwcaf,15189282,Version1-raw,19,audio started,1517.3999999999942,Audio Clip,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:11,kvczwcaf,15189282,Version1-raw,19,o.png,2545.1000000178756,O,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:13,kvczwcaf,15189282,Version1-raw,20,audio started,1517.800000011921,Audio Clip,2,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:14,kvczwcaf,15189282,Version1-raw,20,a.png,2789.5,A,1,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:16,kvczwcaf,15189282,Version1-raw,21,audio started,1518.0000000059663,Audio Clip,2,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+18/02/2026 09:38:17,kvczwcaf,15189282,Version1-raw,21,a.png,2522.5000000059663,A,1,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+18/02/2026 09:38:18,kvczwcaf,15189282,Version1-raw,22,audio started,1501.500000023836,Audio Clip,2,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:38:19,kvczwcaf,15189282,Version1-raw,22,a.png,2207.399999999994,A,1,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:38:20,kvczwcaf,15189282,Version1-raw,23,audio started,1518.2000000059488,Audio Clip,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:21,kvczwcaf,15189282,Version1-raw,23,a.png,2095.200000005949,A,1,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:23,kvczwcaf,15189282,Version1-raw,24,audio started,1501.3999999999942,Audio Clip,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+18/02/2026 09:38:24,kvczwcaf,15189282,Version1-raw,24,o.png,2705.899999999994,O,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+18/02/2026 09:38:31,kvczwcaf,15189282,Version1-raw,25,audio started,1518.1000000119093,Audio Clip,2,79,[MONO] ASI_gapa_analyzable.mp3
+18/02/2026 09:38:32,kvczwcaf,15189282,Version1-raw,25,a.png,2576.40000002383,A,1,79,[MONO] ASI_gapa_analyzable.mp3
+18/02/2026 09:38:33,kvczwcaf,15189282,Version1-raw,26,audio started,1517.300000011921,Audio Clip,2,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:38:34,kvczwcaf,15189282,Version1-raw,26,a.png,2672.600000023842,A,1,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:38:36,kvczwcaf,15189282,Version1-raw,27,audio started,1501.300000011921,Audio Clip,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:37,kvczwcaf,15189282,Version1-raw,27,o.png,2822.600000023842,O,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:39,kvczwcaf,15189282,Version1-raw,28,audio started,1517.4000000059605,Audio Clip,2,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:40,kvczwcaf,15189282,Version1-raw,28,a.png,2923.7000000178814,A,1,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:38:42,kvczwcaf,15189282,Version1-raw,29,audio started,1501.2999999999884,Audio Clip,2,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:38:42,kvczwcaf,15189282,Version1-raw,29,a.png,2329.0000000178698,A,1,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:38:44,kvczwcaf,15189282,Version1-raw,30,audio started,1518.1000000238419,Audio Clip,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+18/02/2026 09:38:45,kvczwcaf,15189282,Version1-raw,30,o.png,2572.5,O,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+18/02/2026 09:38:46,kvczwcaf,15189282,Version1-raw,31,audio started,1501.200000011915,Audio Clip,2,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:38:47,kvczwcaf,15189282,Version1-raw,31,a.png,2490.000000023836,A,1,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:38:49,kvczwcaf,15189282,Version1-raw,32,audio started,1518.1000000178756,Audio Clip,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+18/02/2026 09:38:50,kvczwcaf,15189282,Version1-raw,32,o.png,2739.500000023836,O,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+18/02/2026 09:38:52,kvczwcaf,15189282,Version1-raw,33,audio started,1501.7000000000116,Audio Clip,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:38:53,kvczwcaf,15189282,Version1-raw,33,o.png,2547.8000000238535,O,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:38:54,kvczwcaf,15189282,Version1-raw,34,audio started,1501.0000000059372,Audio Clip,2,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:38:55,kvczwcaf,15189282,Version1-raw,34,a.png,2672.9000000118976,A,1,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:38:57,kvczwcaf,15189282,Version1-raw,35,audio started,1517.7000000059488,Audio Clip,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:38:58,kvczwcaf,15189282,Version1-raw,35,o.png,2689.0000000178698,O,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:39:00,kvczwcaf,15189282,Version1-raw,36,audio started,1516.8000000059837,Audio Clip,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:39:01,kvczwcaf,15189282,Version1-raw,36,o.png,2990.000000023865,O,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:39:02,kvczwcaf,15189282,Version1-raw,37,audio started,1517.6000000179047,Audio Clip,2,80,[MONO] ASI_kecha_analyzable.mp3
+18/02/2026 09:39:04,kvczwcaf,15189282,Version1-raw,37,a.png,2645.3000000059837,A,1,80,[MONO] ASI_kecha_analyzable.mp3
+18/02/2026 09:39:05,kvczwcaf,15189282,Version1-raw,38,audio started,1501.2000000238186,Audio Clip,2,69,[MONO] HSS_sato_analyzable.mp3
+18/02/2026 09:39:07,kvczwcaf,15189282,Version1-raw,38,o.png,3122.800000017858,O,2,69,[MONO] HSS_sato_analyzable.mp3
+18/02/2026 09:39:08,kvczwcaf,15189282,Version1-raw,39,audio started,1501.300000011921,Audio Clip,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:10,kvczwcaf,15189282,Version1-raw,39,a.png,2805.9000000059605,A,1,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:11,kvczwcaf,15189282,Version1-raw,40,audio started,1501.6000000119093,Audio Clip,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:12,kvczwcaf,15189282,Version1-raw,40,o.png,2790.1000000119093,O,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:14,kvczwcaf,15189282,Version1-raw,41,audio started,1501.5000000178698,Audio Clip,2,91,[MONO] ASI_noga_unanalyzable1.mp3
+18/02/2026 09:39:15,kvczwcaf,15189282,Version1-raw,41,a.png,2438.90000002383,A,1,91,[MONO] ASI_noga_unanalyzable1.mp3
+18/02/2026 09:39:16,kvczwcaf,15189282,Version1-raw,42,audio started,1517.6000000179047,Audio Clip,2,76,[MONO] ASI_crola_analyzable.mp3
+18/02/2026 09:39:18,kvczwcaf,15189282,Version1-raw,42,a.png,2990.200000011944,A,1,76,[MONO] ASI_crola_analyzable.mp3
+18/02/2026 09:39:19,kvczwcaf,15189282,Version1-raw,43,audio started,1501.6000000179047,Audio Clip,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+18/02/2026 09:39:21,kvczwcaf,15189282,Version1-raw,43,o.png,3006.200000011944,O,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+18/02/2026 09:39:22,kvczwcaf,15189282,Version1-raw,44,audio started,1517.4000000238302,Audio Clip,2,75,[MONO] ASI_blena_analyzable.mp3
+18/02/2026 09:39:23,kvczwcaf,15189282,Version1-raw,44,a.png,2773.2999999999884,A,1,75,[MONO] ASI_blena_analyzable.mp3
+18/02/2026 09:39:25,kvczwcaf,15189282,Version1-raw,45,audio started,1502.4000000059605,Audio Clip,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:39:26,kvczwcaf,15189282,Version1-raw,45,o.png,2506.300000011921,O,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:39:27,kvczwcaf,15189282,Version1-raw,46,audio started,1500.9000000118976,Audio Clip,2,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+18/02/2026 09:39:28,kvczwcaf,15189282,Version1-raw,46,a.png,2489.5999999999767,A,1,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+18/02/2026 09:39:30,kvczwcaf,15189282,Version1-raw,47,audio started,1517.800000017858,Audio Clip,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:39:31,kvczwcaf,15189282,Version1-raw,47,o.png,2723.0999999999767,O,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:39:33,kvczwcaf,15189282,Version1-raw,48,audio started,1501.1000000179047,Audio Clip,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:39:34,kvczwcaf,15189282,Version1-raw,48,o.png,2839.700000011944,O,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:39:37,kvczwcaf,15189282,Version1-raw,49,audio started,1518.4000000000233,Audio Clip,2,95,[MONO] HSS_sata_unanalyzable.mp3
+18/02/2026 09:39:39,kvczwcaf,15189282,Version1-raw,49,a.png,2773.1000000179047,A,1,95,[MONO] HSS_sata_unanalyzable.mp3
+18/02/2026 09:39:40,kvczwcaf,15189282,Version1-raw,50,audio started,1517.7000000238186,Audio Clip,2,94,[MONO] HSS_kecha_unanalyzable2.mp3
+18/02/2026 09:39:41,kvczwcaf,15189282,Version1-raw,50,a.png,2223.000000005937,A,1,94,[MONO] HSS_kecha_unanalyzable2.mp3
+18/02/2026 09:39:42,kvczwcaf,15189282,Version1-raw,51,audio started,1501.0000000238651,Audio Clip,2,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:43,kvczwcaf,15189282,Version1-raw,51,a.png,2506.700000011944,A,1,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:45,kvczwcaf,15189282,Version1-raw,52,audio started,1517.5000000178698,Audio Clip,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:39:46,kvczwcaf,15189282,Version1-raw,52,o.png,2508.0000000178698,O,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:39:47,kvczwcaf,15189282,Version1-raw,53,audio started,1517.5000000119326,Audio Clip,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:49,kvczwcaf,15189282,Version1-raw,53,o.png,2872.0000000119326,O,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:39:50,kvczwcaf,15189282,Version1-raw,54,audio started,1517.5,Audio Clip,2,67,[MONO] ASI_bleno_analyzable.mp3
+18/02/2026 09:39:51,kvczwcaf,15189282,Version1-raw,54,o.png,2488.9000000059605,O,2,67,[MONO] ASI_bleno_analyzable.mp3
+18/02/2026 09:39:53,kvczwcaf,15189282,Version1-raw,55,audio started,1518.1000000238419,Audio Clip,2,65,[MONO] HSS_fado_analyzable.mp3
+18/02/2026 09:39:54,kvczwcaf,15189282,Version1-raw,55,o.png,3107.5,O,2,65,[MONO] HSS_fado_analyzable.mp3
+18/02/2026 09:39:56,kvczwcaf,15189282,Version1-raw,56,audio started,1502.2000000119442,Audio Clip,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+18/02/2026 09:39:57,kvczwcaf,15189282,Version1-raw,56,o.png,2779.3000000059837,O,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+18/02/2026 09:39:58,kvczwcaf,15189282,Version1-raw,57,audio started,1501.0000000178698,Audio Clip,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+18/02/2026 09:39:59,kvczwcaf,15189282,Version1-raw,57,o.png,2306.5000000178698,O,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+18/02/2026 09:40:01,kvczwcaf,15189282,Version1-raw,58,audio started,1517.4000000118976,Audio Clip,2,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:02,kvczwcaf,15189282,Version1-raw,58,a.png,2306.500000005937,A,1,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:03,kvczwcaf,15189282,Version1-raw,59,audio started,1501.300000011921,Audio Clip,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:04,kvczwcaf,15189282,Version1-raw,59,o.png,2473.5,O,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:06,kvczwcaf,15189282,Version1-raw,60,audio started,1517.7000000119442,Audio Clip,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+18/02/2026 09:40:07,kvczwcaf,15189282,Version1-raw,60,o.png,2878.6000000179047,O,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+18/02/2026 09:40:08,kvczwcaf,15189282,Version1-raw,61,audio started,1500.9000000118976,Audio Clip,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:10,kvczwcaf,15189282,Version1-raw,61,o.png,2990.2000000238186,O,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:11,kvczwcaf,15189282,Version1-raw,62,audio started,1501.5000000119326,Audio Clip,2,96,[MONO] ASI_sata_unanalyzable.mp3
+18/02/2026 09:40:13,kvczwcaf,15189282,Version1-raw,62,a.png,3240.100000005972,A,1,96,[MONO] ASI_sata_unanalyzable.mp3
+18/02/2026 09:40:15,kvczwcaf,15189282,Version1-raw,63,audio started,1501.8000000238535,Audio Clip,2,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:15,kvczwcaf,15189282,Version1-raw,63,a.png,2290.900000017893,A,1,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:17,kvczwcaf,15189282,Version1-raw,64,audio started,1516.6000000119093,Audio Clip,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:18,kvczwcaf,15189282,Version1-raw,64,o.png,2522.2999999999884,O,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:19,kvczwcaf,15189282,Version1-raw,65,audio started,1517.4000000118976,Audio Clip,2,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:40:21,kvczwcaf,15189282,Version1-raw,65,a.png,2889.7000000238186,A,1,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:40:22,kvczwcaf,15189282,Version1-raw,66,audio started,1501.7000000178814,Audio Clip,2,89,[MONO] HSS_fada_unanalyzable1.mp3
+18/02/2026 09:40:24,kvczwcaf,15189282,Version1-raw,66,a.png,2757.100000023842,A,1,89,[MONO] HSS_fada_unanalyzable1.mp3
+18/02/2026 09:40:25,kvczwcaf,15189282,Version1-raw,67,audio started,1516.5,Audio Clip,2,77,[MONO] HSS_nija_analyzable.mp3
+18/02/2026 09:40:26,kvczwcaf,15189282,Version1-raw,67,a.png,2373.100000023842,A,1,77,[MONO] HSS_nija_analyzable.mp3
+18/02/2026 09:40:27,kvczwcaf,15189282,Version1-raw,68,audio started,1517.800000017858,Audio Clip,2,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:28,kvczwcaf,15189282,Version1-raw,68,a.png,2506.2000000238186,A,1,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:30,kvczwcaf,15189282,Version1-raw,69,audio started,1516.600000005972,Audio Clip,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:40:31,kvczwcaf,15189282,Version1-raw,69,o.png,2289.5000000119326,O,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:40:32,kvczwcaf,15189282,Version1-raw,70,audio started,1502.0000000178698,Audio Clip,2,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:34,kvczwcaf,15189282,Version1-raw,70,a.png,3057.2999999999884,A,1,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:35,kvczwcaf,15189282,Version1-raw,71,audio started,1501.2000000238186,Audio Clip,2,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:36,kvczwcaf,15189282,Version1-raw,71,a.png,2657.4000000118976,A,1,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:38,kvczwcaf,15189282,Version1-raw,72,audio started,1501.400000017893,Audio Clip,2,66,[MONO] HSS_nogo_analyzable.mp3
+18/02/2026 09:40:39,kvczwcaf,15189282,Version1-raw,72,a.png,2755.900000017893,A,1,66,[MONO] HSS_nogo_analyzable.mp3
+18/02/2026 09:40:42,kvczwcaf,15189282,Version1-raw,73,audio started,1501.100000005972,Audio Clip,2,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:44,kvczwcaf,15189282,Version1-raw,73,o.png,3206.2000000000116,O,2,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:40:45,kvczwcaf,15189282,Version1-raw,74,audio started,1500.7000000000116,Audio Clip,2,92,[MONO] ASI_noga_unanalyzable2.mp3
+18/02/2026 09:40:47,kvczwcaf,15189282,Version1-raw,74,a.png,3340.5000000119326,A,1,92,[MONO] ASI_noga_unanalyzable2.mp3
+18/02/2026 09:40:49,kvczwcaf,15189282,Version1-raw,75,audio started,1500.8000000238535,Audio Clip,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:50,kvczwcaf,15189282,Version1-raw,75,o.png,2588.8000000238535,O,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:51,kvczwcaf,15189282,Version1-raw,76,audio started,1517.800000011921,Audio Clip,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+18/02/2026 09:40:52,kvczwcaf,15189282,Version1-raw,76,o.png,2289.4000000059605,O,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+18/02/2026 09:40:54,kvczwcaf,15189282,Version1-raw,77,audio started,1500.9000000000233,Audio Clip,2,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:55,kvczwcaf,15189282,Version1-raw,77,a.png,2940.500000023865,A,1,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+18/02/2026 09:40:57,kvczwcaf,15189282,Version1-raw,78,audio started,1501.6000000238419,Audio Clip,2,90,[MONO] HSS_fada_unanalyzable2.mp3
+18/02/2026 09:40:58,kvczwcaf,15189282,Version1-raw,78,a.png,2706.600000023842,A,1,90,[MONO] HSS_fada_unanalyzable2.mp3
+18/02/2026 09:40:59,kvczwcaf,15189282,Version1-raw,79,audio started,1502.0000000238651,Audio Clip,2,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:00,kvczwcaf,15189282,Version1-raw,79,a.png,2406.700000011944,A,1,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:02,kvczwcaf,15189282,Version1-raw,80,audio started,1517.1000000119093,Audio Clip,2,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:41:03,kvczwcaf,15189282,Version1-raw,80,a.png,2723.6000000119093,A,1,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:41:04,kvczwcaf,15189282,Version1-raw,81,audio started,1517.300000017858,Audio Clip,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+18/02/2026 09:41:05,kvczwcaf,15189282,Version1-raw,81,o.png,2524.500000005937,O,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+18/02/2026 09:41:07,kvczwcaf,15189282,Version1-raw,82,audio started,1518.0000000178698,Audio Clip,2,72,[MONO] ASI_nijo_analyzable.mp3
+18/02/2026 09:41:08,kvczwcaf,15189282,Version1-raw,82,o.png,2839.7999999999884,O,2,72,[MONO] ASI_nijo_analyzable.mp3
+18/02/2026 09:41:10,kvczwcaf,15189282,Version1-raw,83,audio started,1517.7000000119442,Audio Clip,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:11,kvczwcaf,15189282,Version1-raw,83,o.png,3106.1000000179047,O,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:13,kvczwcaf,15189282,Version1-raw,84,audio started,1517.6000000119093,Audio Clip,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:14,kvczwcaf,15189282,Version1-raw,84,o.png,2905.700000005949,O,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:16,kvczwcaf,15189282,Version1-raw,85,audio started,1501.0000000119326,Audio Clip,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:17,kvczwcaf,15189282,Version1-raw,85,o.png,2473.100000005972,O,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:18,kvczwcaf,15189282,Version1-raw,86,audio started,1517.8000000059837,Audio Clip,2,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+18/02/2026 09:41:20,kvczwcaf,15189282,Version1-raw,86,a.png,3039.700000011944,A,1,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+18/02/2026 09:41:21,kvczwcaf,15189282,Version1-raw,87,audio started,1517.5,Audio Clip,2,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:41:22,kvczwcaf,15189282,Version1-raw,87,a.png,2256.5,A,1,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+18/02/2026 09:41:24,kvczwcaf,15189282,Version1-raw,88,audio started,1518.3000000238535,Audio Clip,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:41:25,kvczwcaf,15189282,Version1-raw,88,o.png,2707.400000017893,O,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:41:26,kvczwcaf,15189282,Version1-raw,89,audio started,1517.4000000000233,Audio Clip,2,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:27,kvczwcaf,15189282,Version1-raw,89,a.png,2541.000000023865,A,1,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+18/02/2026 09:41:29,kvczwcaf,15189282,Version1-raw,90,audio started,1517.4000000000233,Audio Clip,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+18/02/2026 09:41:30,kvczwcaf,15189282,Version1-raw,90,o.png,2690.200000011944,O,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+18/02/2026 09:41:31,kvczwcaf,15189282,Version1-raw,91,audio started,1502.3000000059837,Audio Clip,2,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:32,kvczwcaf,15189282,Version1-raw,91,a.png,2573.1000000179047,A,1,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:34,kvczwcaf,15189282,Version1-raw,92,audio started,1501.2999999999884,Audio Clip,2,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:41:35,kvczwcaf,15189282,Version1-raw,92,a.png,2355.700000005949,A,1,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+18/02/2026 09:41:36,kvczwcaf,15189282,Version1-raw,93,audio started,1518.100000005972,Audio Clip,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:37,kvczwcaf,15189282,Version1-raw,93,o.png,2607.100000005972,O,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:39,kvczwcaf,15189282,Version1-raw,94,audio started,1517.5000000059372,Audio Clip,2,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:40,kvczwcaf,15189282,Version1-raw,94,a.png,2606.0999999999767,A,1,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+18/02/2026 09:41:42,kvczwcaf,15189282,Version1-raw,95,audio started,1500.9000000118976,Audio Clip,2,86,[MONO] ASI_kecho_unanalyable.mp3
+18/02/2026 09:41:43,kvczwcaf,15189282,Version1-raw,95,o.png,3155.9000000118976,O,2,86,[MONO] ASI_kecho_unanalyable.mp3
+18/02/2026 09:41:45,kvczwcaf,15189282,Version1-raw,96,audio started,1500.800000011921,Audio Clip,2,68,[MONO] ASI_crolo_analyzable.mp3
+18/02/2026 09:41:46,kvczwcaf,15189282,Version1-raw,96,o.png,3205.9000000059605,O,2,68,[MONO] ASI_crolo_analyzable.mp3
+20/02/2026 17:24:16,ot6c5ub7,15214120,Version1-raw,1,audio started,1501.2000000000116,Audio Clip,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:24:17,ot6c5ub7,15214120,Version1-raw,1,o.png,2798.5800000000454,O,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:24:18,ot6c5ub7,15214120,Version1-raw,2,audio started,1501.2999999999884,Audio Clip,2,72,[MONO] ASI_nijo_analyzable.mp3
+20/02/2026 17:24:20,ot6c5ub7,15214120,Version1-raw,2,o.png,2916.5800000000163,O,2,72,[MONO] ASI_nijo_analyzable.mp3
+20/02/2026 17:24:21,ot6c5ub7,15214120,Version1-raw,3,audio started,1500.9599999999919,Audio Clip,2,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:24:22,ot6c5ub7,15214120,Version1-raw,3,a.png,2567.6600000000035,A,1,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:24:24,ot6c5ub7,15214120,Version1-raw,4,audio started,1500.5599999999977,Audio Clip,2,73,[MONO] HSS_fada_analyzable.mp3
+20/02/2026 17:24:26,ot6c5ub7,15214120,Version1-raw,4,a.png,3399.9000000000233,A,1,73,[MONO] HSS_fada_analyzable.mp3
+20/02/2026 17:24:27,ot6c5ub7,15214120,Version1-raw,5,audio started,1517.5199999999895,Audio Clip,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+20/02/2026 17:24:28,ot6c5ub7,15214120,Version1-raw,5,o.png,2366.5199999999895,O,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+20/02/2026 17:24:29,ot6c5ub7,15214120,Version1-raw,6,audio started,1516.820000000007,Audio Clip,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:24:31,ot6c5ub7,15214120,Version1-raw,6,o.png,2633.5400000000373,O,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:24:32,ot6c5ub7,15214120,Version1-raw,7,audio started,1501.0799999999872,Audio Clip,2,86,[MONO] ASI_kecho_unanalyable.mp3
+20/02/2026 17:24:35,ot6c5ub7,15214120,Version1-raw,7,a.png,4232.699999999953,A,1,86,[MONO] ASI_kecho_unanalyable.mp3
+20/02/2026 17:24:36,ot6c5ub7,15214120,Version1-raw,8,audio started,1516.9800000000105,Audio Clip,2,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+20/02/2026 17:24:38,ot6c5ub7,15214120,Version1-raw,8,a.png,3299.9800000000105,A,1,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+20/02/2026 17:24:40,ot6c5ub7,15214120,Version1-raw,9,audio started,1515.8999999999942,Audio Clip,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:24:41,ot6c5ub7,15214120,Version1-raw,9,o.png,2714.9199999999837,O,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:24:42,ot6c5ub7,15214120,Version1-raw,10,audio started,1501.7600000000093,Audio Clip,2,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:24:44,ot6c5ub7,15214120,Version1-raw,10,a.png,2833.060000000027,A,1,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:24:45,ot6c5ub7,15214120,Version1-raw,11,audio started,1501.0199999999895,Audio Clip,2,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+20/02/2026 17:24:46,ot6c5ub7,15214120,Version1-raw,11,a.png,2417.0199999999895,A,1,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+20/02/2026 17:24:48,ot6c5ub7,15214120,Version1-raw,12,audio started,1516.2399999999907,Audio Clip,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:24:49,ot6c5ub7,15214120,Version1-raw,12,o.png,2782.2399999999907,O,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:24:50,ot6c5ub7,15214120,Version1-raw,13,audio started,1500.4599999999919,Audio Clip,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:24:52,ot6c5ub7,15214120,Version1-raw,13,o.png,2731.999999999971,O,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:24:53,ot6c5ub7,15214120,Version1-raw,14,audio started,1501.7000000000116,Audio Clip,2,67,[MONO] ASI_bleno_analyzable.mp3
+20/02/2026 17:24:55,ot6c5ub7,15214120,Version1-raw,14,o.png,3416.7000000000116,O,2,67,[MONO] ASI_bleno_analyzable.mp3
+20/02/2026 17:24:56,ot6c5ub7,15214120,Version1-raw,15,audio started,1501.6199999999953,Audio Clip,2,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:24:58,ot6c5ub7,15214120,Version1-raw,15,a.png,3034.140000000014,A,1,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:24:59,ot6c5ub7,15214120,Version1-raw,16,audio started,1501.0599999999977,Audio Clip,2,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:00,ot6c5ub7,15214120,Version1-raw,16,a.png,2516.0599999999977,A,1,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:02,ot6c5ub7,15214120,Version1-raw,17,audio started,1516.9599999999919,Audio Clip,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+20/02/2026 17:25:03,ot6c5ub7,15214120,Version1-raw,17,o.png,2866.959999999992,O,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+20/02/2026 17:25:05,ot6c5ub7,15214120,Version1-raw,18,audio started,1516.8999999999942,Audio Clip,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:06,ot6c5ub7,15214120,Version1-raw,18,o.png,2731.899999999994,O,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:07,ot6c5ub7,15214120,Version1-raw,19,audio started,1501.179999999993,Audio Clip,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:25:09,ot6c5ub7,15214120,Version1-raw,19,o.png,2817.4599999999627,O,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:25:10,ot6c5ub7,15214120,Version1-raw,20,audio started,1501.640000000014,Audio Clip,2,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:25:12,ot6c5ub7,15214120,Version1-raw,20,no-se.png,3216.0599999999977,No se,3,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:25:13,ot6c5ub7,15214120,Version1-raw,21,audio started,1502.1000000000058,Audio Clip,2,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:25:16,ot6c5ub7,15214120,Version1-raw,21,no-se.png,3549.3000000000175,No se,3,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:25:17,ot6c5ub7,15214120,Version1-raw,22,audio started,1501.5599999999977,Audio Clip,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+20/02/2026 17:25:19,ot6c5ub7,15214120,Version1-raw,22,o.png,3065.6399999999558,O,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+20/02/2026 17:25:20,ot6c5ub7,15214120,Version1-raw,23,audio started,1500.640000000014,Audio Clip,2,71,[MONO] ASI_kecho_analyzable.mp3
+20/02/2026 17:25:22,ot6c5ub7,15214120,Version1-raw,23,o.png,3401.5,O,2,71,[MONO] ASI_kecho_analyzable.mp3
+20/02/2026 17:25:23,ot6c5ub7,15214120,Version1-raw,24,audio started,1501.320000000007,Audio Clip,2,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+20/02/2026 17:25:27,ot6c5ub7,15214120,Version1-raw,24,a.png,4632.320000000007,A,1,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+20/02/2026 17:25:31,ot6c5ub7,15214120,Version1-raw,25,audio started,1515.7200000000012,Audio Clip,2,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:25:32,ot6c5ub7,15214120,Version1-raw,25,a.png,2916.4400000000023,A,1,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:25:34,ot6c5ub7,15214120,Version1-raw,26,audio started,1516.679999999993,Audio Clip,2,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:35,ot6c5ub7,15214120,Version1-raw,26,a.png,2615.5,A,1,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:36,ot6c5ub7,15214120,Version1-raw,27,audio started,1516.4599999999919,Audio Clip,2,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:25:38,ot6c5ub7,15214120,Version1-raw,27,a.png,3015.219999999943,A,1,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:25:39,ot6c5ub7,15214120,Version1-raw,28,audio started,1502.280000000028,Audio Clip,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+20/02/2026 17:25:41,ot6c5ub7,15214120,Version1-raw,28,o.png,2817.280000000028,O,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+20/02/2026 17:25:42,ot6c5ub7,15214120,Version1-raw,29,audio started,1517.2399999999907,Audio Clip,2,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:43,ot6c5ub7,15214120,Version1-raw,29,a.png,2715.2399999999907,A,1,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:25:45,ot6c5ub7,15214120,Version1-raw,30,audio started,1516.320000000007,Audio Clip,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+20/02/2026 17:25:46,ot6c5ub7,15214120,Version1-raw,30,o.png,2465.1399999999558,O,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+20/02/2026 17:25:47,ot6c5ub7,15214120,Version1-raw,31,audio started,1501.2000000000116,Audio Clip,2,65,[MONO] HSS_fado_analyzable.mp3
+20/02/2026 17:25:49,ot6c5ub7,15214120,Version1-raw,31,no-se.png,3565.7799999999697,No se,3,65,[MONO] HSS_fado_analyzable.mp3
+20/02/2026 17:25:51,ot6c5ub7,15214120,Version1-raw,32,audio started,1501.140000000014,Audio Clip,2,69,[MONO] HSS_sato_analyzable.mp3
+20/02/2026 17:25:52,ot6c5ub7,15214120,Version1-raw,32,o.png,3117.1199999999953,O,2,69,[MONO] HSS_sato_analyzable.mp3
+20/02/2026 17:25:54,ot6c5ub7,15214120,Version1-raw,33,audio started,1517.8800000000047,Audio Clip,2,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:25:55,ot6c5ub7,15214120,Version1-raw,33,a.png,2599.8800000000047,A,1,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:25:57,ot6c5ub7,15214120,Version1-raw,34,audio started,1515.9400000000023,Audio Clip,2,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:25:58,ot6c5ub7,15214120,Version1-raw,34,a.png,2949.2999999999884,A,1,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:25:59,ot6c5ub7,15214120,Version1-raw,35,audio started,1517.320000000007,Audio Clip,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:01,ot6c5ub7,15214120,Version1-raw,35,o.png,2750.039999999979,O,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:02,ot6c5ub7,15214120,Version1-raw,36,audio started,1501.5,Audio Clip,2,74,[MONO] HSS_noga_analyzable.mp3
+20/02/2026 17:26:05,ot6c5ub7,15214120,Version1-raw,36,no-se.png,4249.180000000051,No se,3,74,[MONO] HSS_noga_analyzable.mp3
+20/02/2026 17:26:06,ot6c5ub7,15214120,Version1-raw,37,audio started,1516.539999999979,Audio Clip,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:08,ot6c5ub7,15214120,Version1-raw,37,o.png,2650.539999999979,O,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:09,ot6c5ub7,15214120,Version1-raw,38,audio started,1517.3400000000256,Audio Clip,2,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:10,ot6c5ub7,15214120,Version1-raw,38,a.png,2549.3400000000256,A,1,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:12,ot6c5ub7,15214120,Version1-raw,39,audio started,1518.3400000000256,Audio Clip,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:13,ot6c5ub7,15214120,Version1-raw,39,o.png,2583.3400000000256,O,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:14,ot6c5ub7,15214120,Version1-raw,40,audio started,1501.280000000028,Audio Clip,2,90,[MONO] HSS_fada_unanalyzable2.mp3
+20/02/2026 17:26:16,ot6c5ub7,15214120,Version1-raw,40,a.png,2898.9800000000396,A,1,90,[MONO] HSS_fada_unanalyzable2.mp3
+20/02/2026 17:26:17,ot6c5ub7,15214120,Version1-raw,41,audio started,1517.3800000000047,Audio Clip,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+20/02/2026 17:26:18,ot6c5ub7,15214120,Version1-raw,41,o.png,2550.3800000000047,O,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+20/02/2026 17:26:20,ot6c5ub7,15214120,Version1-raw,42,audio started,1500.5,Audio Clip,2,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:20,ot6c5ub7,15214120,Version1-raw,42,a.png,2349.5,A,1,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:22,ot6c5ub7,15214120,Version1-raw,43,audio started,1516.2399999999907,Audio Clip,2,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:24,ot6c5ub7,15214120,Version1-raw,43,no-se.png,3132.7999999999884,No se,3,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:25,ot6c5ub7,15214120,Version1-raw,44,audio started,1501.2399999999907,Audio Clip,2,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:26:26,ot6c5ub7,15214120,Version1-raw,44,a.png,2434.880000000063,A,1,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:26:27,ot6c5ub7,15214120,Version1-raw,45,audio started,1516.6599999999744,Audio Clip,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:29,ot6c5ub7,15214120,Version1-raw,45,o.png,2682.6599999999744,O,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:30,ot6c5ub7,15214120,Version1-raw,46,audio started,1516.960000000021,Audio Clip,2,68,[MONO] ASI_crolo_analyzable.mp3
+20/02/2026 17:26:32,ot6c5ub7,15214120,Version1-raw,46,o.png,3116.920000000042,O,2,68,[MONO] ASI_crolo_analyzable.mp3
+20/02/2026 17:26:33,ot6c5ub7,15214120,Version1-raw,47,audio started,1516.0200000000186,Audio Clip,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:26:34,ot6c5ub7,15214120,Version1-raw,47,o.png,2665.9400000000023,O,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:26:36,ot6c5ub7,15214120,Version1-raw,48,audio started,1515.9400000000023,Audio Clip,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:37,ot6c5ub7,15214120,Version1-raw,48,o.png,2265.6999999999534,O,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:40,ot6c5ub7,15214120,Version1-raw,49,audio started,1515.859999999986,Audio Clip,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:41,ot6c5ub7,15214120,Version1-raw,49,o.png,2548.7399999999907,O,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:43,ot6c5ub7,15214120,Version1-raw,50,audio started,1500.4199999999837,Audio Clip,2,70,[MONO] ASI_gapo_analyzable.mp3
+20/02/2026 17:26:44,ot6c5ub7,15214120,Version1-raw,50,o.png,2751.4199999999837,O,2,70,[MONO] ASI_gapo_analyzable.mp3
+20/02/2026 17:26:46,ot6c5ub7,15214120,Version1-raw,51,audio started,1501.320000000007,Audio Clip,2,80,[MONO] ASI_kecha_analyzable.mp3
+20/02/2026 17:26:47,ot6c5ub7,15214120,Version1-raw,51,a.png,2516.820000000065,A,1,80,[MONO] ASI_kecha_analyzable.mp3
+20/02/2026 17:26:48,ot6c5ub7,15214120,Version1-raw,52,audio started,1501.219999999972,Audio Clip,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:49,ot6c5ub7,15214120,Version1-raw,52,o.png,2499.3799999999464,O,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:26:51,ot6c5ub7,15214120,Version1-raw,53,audio started,1500.7600000000093,Audio Clip,2,66,[MONO] HSS_nogo_analyzable.mp3
+20/02/2026 17:26:52,ot6c5ub7,15214120,Version1-raw,53,o.png,2899.7600000000093,O,2,66,[MONO] HSS_nogo_analyzable.mp3
+20/02/2026 17:26:54,ot6c5ub7,15214120,Version1-raw,54,audio started,1516.5599999999977,Audio Clip,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:55,ot6c5ub7,15214120,Version1-raw,54,o.png,2515.179999999935,O,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:56,ot6c5ub7,15214120,Version1-raw,55,audio started,1517.280000000028,Audio Clip,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:57,ot6c5ub7,15214120,Version1-raw,55,a.png,2533.7600000000093,A,1,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:26:59,ot6c5ub7,15214120,Version1-raw,56,audio started,1500.960000000021,Audio Clip,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+20/02/2026 17:27:00,ot6c5ub7,15214120,Version1-raw,56,o.png,2898.960000000021,O,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+20/02/2026 17:27:01,ot6c5ub7,15214120,Version1-raw,57,audio started,1517.4799999999814,Audio Clip,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+20/02/2026 17:27:03,ot6c5ub7,15214120,Version1-raw,57,o.png,2683.319999999949,O,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+20/02/2026 17:27:04,ot6c5ub7,15214120,Version1-raw,58,audio started,1517.7600000000093,Audio Clip,2,93,[MONO] HSS_kecha_unanalyzable1.mp3
+20/02/2026 17:27:06,ot6c5ub7,15214120,Version1-raw,58,a.png,3265.0200000000186,A,1,93,[MONO] HSS_kecha_unanalyzable1.mp3
+20/02/2026 17:27:07,ot6c5ub7,15214120,Version1-raw,59,audio started,1500.5599999999977,Audio Clip,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+20/02/2026 17:27:09,ot6c5ub7,15214120,Version1-raw,59,o.png,2700.5599999999977,O,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+20/02/2026 17:27:10,ot6c5ub7,15214120,Version1-raw,60,audio started,1500.280000000028,Audio Clip,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:27:11,ot6c5ub7,15214120,Version1-raw,60,o.png,2782.280000000028,O,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:27:13,ot6c5ub7,15214120,Version1-raw,61,audio started,1517.9000000000233,Audio Clip,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+20/02/2026 17:27:14,ot6c5ub7,15214120,Version1-raw,61,o.png,2933.719999999972,O,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+20/02/2026 17:27:16,ot6c5ub7,15214120,Version1-raw,62,audio started,1516.8400000000256,Audio Clip,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+20/02/2026 17:27:17,ot6c5ub7,15214120,Version1-raw,62,o.png,2916.820000000007,O,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+20/02/2026 17:27:19,ot6c5ub7,15214120,Version1-raw,63,audio started,1516.0800000000163,Audio Clip,2,92,[MONO] ASI_noga_unanalyzable2.mp3
+20/02/2026 17:27:20,ot6c5ub7,15214120,Version1-raw,63,a.png,2832.7600000000675,A,1,92,[MONO] ASI_noga_unanalyzable2.mp3
+20/02/2026 17:27:21,ot6c5ub7,15214120,Version1-raw,64,audio started,1500.9799999999814,Audio Clip,2,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:22,ot6c5ub7,15214120,Version1-raw,64,a.png,2567.2399999999907,A,1,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:24,ot6c5ub7,15214120,Version1-raw,65,audio started,1500.6199999999953,Audio Clip,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:27:25,ot6c5ub7,15214120,Version1-raw,65,o.png,2399.6199999999953,O,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:27:26,ot6c5ub7,15214120,Version1-raw,66,audio started,1501.359999999986,Audio Clip,2,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:28,ot6c5ub7,15214120,Version1-raw,66,a.png,2816.359999999986,A,1,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:29,ot6c5ub7,15214120,Version1-raw,67,audio started,1500.6599999999744,Audio Clip,2,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:27:30,ot6c5ub7,15214120,Version1-raw,67,a.png,2165.6600000000326,A,1,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:27:31,ot6c5ub7,15214120,Version1-raw,68,audio started,1517.4199999999837,Audio Clip,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:32,ot6c5ub7,15214120,Version1-raw,68,o.png,2484.4199999999837,O,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:34,ot6c5ub7,15214120,Version1-raw,69,audio started,1500.0199999999604,Audio Clip,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:27:35,ot6c5ub7,15214120,Version1-raw,69,no-se.png,3215.859999999986,No se,3,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:27:37,ot6c5ub7,15214120,Version1-raw,70,audio started,1516.8800000000047,Audio Clip,2,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:27:38,ot6c5ub7,15214120,Version1-raw,70,a.png,3014.8600000000442,A,1,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:27:40,ot6c5ub7,15214120,Version1-raw,71,audio started,1501.0199999999604,Audio Clip,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:27:41,ot6c5ub7,15214120,Version1-raw,71,o.png,2433.7999999999884,O,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:27:42,ot6c5ub7,15214120,Version1-raw,72,audio started,1517.179999999993,Audio Clip,2,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+20/02/2026 17:27:44,ot6c5ub7,15214120,Version1-raw,72,a.png,2899.179999999993,A,1,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+20/02/2026 17:27:47,ot6c5ub7,15214120,Version1-raw,73,audio started,1500.7600000000093,Audio Clip,2,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:27:48,ot6c5ub7,15214120,Version1-raw,73,a.png,2432.7600000000093,A,1,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:27:50,ot6c5ub7,15214120,Version1-raw,74,audio started,1516.0800000000163,Audio Clip,2,96,[MONO] ASI_sata_unanalyzable.mp3
+20/02/2026 17:27:51,ot6c5ub7,15214120,Version1-raw,74,o.png,2766.000000000058,O,2,96,[MONO] ASI_sata_unanalyzable.mp3
+20/02/2026 17:27:52,ot6c5ub7,15214120,Version1-raw,75,audio started,1516.7999999999884,Audio Clip,2,89,[MONO] HSS_fada_unanalyzable1.mp3
+20/02/2026 17:27:53,ot6c5ub7,15214120,Version1-raw,75,a.png,2482.7999999999884,A,1,89,[MONO] HSS_fada_unanalyzable1.mp3
+20/02/2026 17:27:55,ot6c5ub7,15214120,Version1-raw,76,audio started,1501.320000000007,Audio Clip,2,79,[MONO] ASI_gapa_analyzable.mp3
+20/02/2026 17:27:56,ot6c5ub7,15214120,Version1-raw,76,a.png,2632.4599999999627,A,1,79,[MONO] ASI_gapa_analyzable.mp3
+20/02/2026 17:27:58,ot6c5ub7,15214120,Version1-raw,77,audio started,1501.5800000000163,Audio Clip,2,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:27:58,ot6c5ub7,15214120,Version1-raw,77,a.png,2249.5800000000163,A,1,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:28:00,ot6c5ub7,15214120,Version1-raw,78,audio started,1501.4000000000233,Audio Clip,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:28:02,ot6c5ub7,15214120,Version1-raw,78,no-se.png,3248.6200000000536,No se,3,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:28:03,ot6c5ub7,15214120,Version1-raw,79,audio started,1501.859999999986,Audio Clip,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:04,ot6c5ub7,15214120,Version1-raw,79,o.png,2600.859999999986,O,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:06,ot6c5ub7,15214120,Version1-raw,80,audio started,1500.4799999999814,Audio Clip,2,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:28:07,ot6c5ub7,15214120,Version1-raw,80,a.png,2832.4799999999814,A,1,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:28:08,ot6c5ub7,15214120,Version1-raw,81,audio started,1500.640000000014,Audio Clip,2,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:10,ot6c5ub7,15214120,Version1-raw,81,a.png,2834.640000000014,A,1,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:11,ot6c5ub7,15214120,Version1-raw,82,audio started,1501.0599999999977,Audio Clip,2,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:28:12,ot6c5ub7,15214120,Version1-raw,82,a.png,2748.4199999999837,A,1,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+20/02/2026 17:28:14,ot6c5ub7,15214120,Version1-raw,83,audio started,1500.780000000028,Audio Clip,2,76,[MONO] ASI_crola_analyzable.mp3
+20/02/2026 17:28:15,ot6c5ub7,15214120,Version1-raw,83,a.png,2384.5800000000163,A,1,76,[MONO] ASI_crola_analyzable.mp3
+20/02/2026 17:28:16,ot6c5ub7,15214120,Version1-raw,84,audio started,1515.9199999999837,Audio Clip,2,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+20/02/2026 17:28:17,ot6c5ub7,15214120,Version1-raw,84,a.png,2482.1999999999534,A,1,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+20/02/2026 17:28:19,ot6c5ub7,15214120,Version1-raw,85,audio started,1516.9000000000233,Audio Clip,2,75,[MONO] ASI_blena_analyzable.mp3
+20/02/2026 17:28:20,ot6c5ub7,15214120,Version1-raw,85,a.png,2617.9000000000233,A,1,75,[MONO] ASI_blena_analyzable.mp3
+20/02/2026 17:28:21,ot6c5ub7,15214120,Version1-raw,86,audio started,1516.2399999999907,Audio Clip,2,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:28:22,ot6c5ub7,15214120,Version1-raw,86,a.png,2232.7399999999325,A,1,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:28:24,ot6c5ub7,15214120,Version1-raw,87,audio started,1501.3400000000256,Audio Clip,2,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:25,ot6c5ub7,15214120,Version1-raw,87,a.png,2700.3400000000256,A,1,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:26,ot6c5ub7,15214120,Version1-raw,88,audio started,1501.140000000014,Audio Clip,2,95,[MONO] HSS_sata_unanalyzable.mp3
+20/02/2026 17:28:28,ot6c5ub7,15214120,Version1-raw,88,no-se.png,3249.140000000014,No se,3,95,[MONO] HSS_sata_unanalyzable.mp3
+20/02/2026 17:28:30,ot6c5ub7,15214120,Version1-raw,89,audio started,1517.7600000000093,Audio Clip,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:30,ot6c5ub7,15214120,Version1-raw,89,a.png,2148.960000000021,A,1,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:32,ot6c5ub7,15214120,Version1-raw,90,audio started,1501.2399999999907,Audio Clip,2,94,[MONO] HSS_kecha_unanalyzable2.mp3
+20/02/2026 17:28:33,ot6c5ub7,15214120,Version1-raw,90,a.png,2866.579999999958,A,1,94,[MONO] HSS_kecha_unanalyzable2.mp3
+20/02/2026 17:28:35,ot6c5ub7,15214120,Version1-raw,91,audio started,1517.320000000007,Audio Clip,2,77,[MONO] HSS_nija_analyzable.mp3
+20/02/2026 17:28:36,ot6c5ub7,15214120,Version1-raw,91,a.png,2934.320000000007,A,1,77,[MONO] HSS_nija_analyzable.mp3
+20/02/2026 17:28:37,ot6c5ub7,15214120,Version1-raw,92,audio started,1516.679999999993,Audio Clip,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:28:39,ot6c5ub7,15214120,Version1-raw,92,o.png,2799.0999999999767,O,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+20/02/2026 17:28:40,ot6c5ub7,15214120,Version1-raw,93,audio started,1501.0200000000186,Audio Clip,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:41,ot6c5ub7,15214120,Version1-raw,93,o.png,2400.0200000000186,O,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+20/02/2026 17:28:43,ot6c5ub7,15214120,Version1-raw,94,audio started,1517.039999999979,Audio Clip,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:28:43,ot6c5ub7,15214120,Version1-raw,94,o.png,2282.420000000042,O,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+20/02/2026 17:28:45,ot6c5ub7,15214120,Version1-raw,95,audio started,1501.039999999979,Audio Clip,2,91,[MONO] ASI_noga_unanalyzable1.mp3
+20/02/2026 17:28:48,ot6c5ub7,15214120,Version1-raw,95,a.png,4299.499999999942,A,1,91,[MONO] ASI_noga_unanalyzable1.mp3
+20/02/2026 17:28:49,ot6c5ub7,15214120,Version1-raw,96,audio started,1501.7600000000093,Audio Clip,2,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+20/02/2026 17:28:50,ot6c5ub7,15214120,Version1-raw,96,a.png,2867.7600000000093,A,1,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:04:32,zbv1k1ax,15240384,Version1-raw,1,audio started,1517.4800000000105,Audio Clip,2,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:04:35,zbv1k1ax,15240384,Version1-raw,1,a.png,3567.0200000000186,A,1,57,[MONO] HSS113_cabra_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:04:36,zbv1k1ax,15240384,Version1-raw,2,audio started,1517.5199999999895,Audio Clip,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+23/02/2026 17:04:37,zbv1k1ax,15240384,Version1-raw,2,o.png,2719.5199999999895,O,2,84,[MONO] HSS_bleno_unanalyzable4.mp3
+23/02/2026 17:04:39,zbv1k1ax,15240384,Version1-raw,3,audio started,1501.859999999986,Audio Clip,2,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:04:40,zbv1k1ax,15240384,Version1-raw,3,a.png,2653.859999999986,A,1,46,[MONO] HSS126_mesa_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:04:41,zbv1k1ax,15240384,Version1-raw,4,audio started,1501.8399999999965,Audio Clip,2,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+23/02/2026 17:04:43,zbv1k1ax,15240384,Version1-raw,4,a.png,2950.8399999999965,A,1,10,[MONO] HSS145_nina_alt_analyzable_v_raw.mp3
+23/02/2026 17:04:44,zbv1k1ax,15240384,Version1-raw,5,audio started,1500.7999999999884,Audio Clip,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:04:46,zbv1k1ax,15240384,Version1-raw,5,o.png,3167.7999999999884,O,2,51,[MONO] ASI119_caballero_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:04:47,zbv1k1ax,15240384,Version1-raw,6,audio started,1502.0199999999895,Audio Clip,2,75,[MONO] ASI_blena_analyzable.mp3
+23/02/2026 17:04:49,zbv1k1ax,15240384,Version1-raw,6,a.png,3021.0199999999895,A,1,75,[MONO] ASI_blena_analyzable.mp3
+23/02/2026 17:04:51,zbv1k1ax,15240384,Version1-raw,7,audio started,1502.3999999999942,Audio Clip,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:04:52,zbv1k1ax,15240384,Version1-raw,7,o.png,2716.459999999992,O,2,39,[MONO] ASI142_sapo_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:04:53,zbv1k1ax,15240384,Version1-raw,8,audio started,1521.0400000000081,Audio Clip,2,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:04:54,zbv1k1ax,15240384,Version1-raw,8,a.png,2635.040000000008,A,1,29,[MONO] HSS141_plata_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:04:56,zbv1k1ax,15240384,Version1-raw,9,audio started,1501.1600000000035,Audio Clip,2,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+23/02/2026 17:04:57,zbv1k1ax,15240384,Version1-raw,9,a.png,3050.9800000000396,A,1,9,[MONO] HSS122_cocinera_alt_analyzable_v_raw.mp3
+23/02/2026 17:04:59,zbv1k1ax,15240384,Version1-raw,10,audio started,1517.859999999986,Audio Clip,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:05:01,zbv1k1ax,15240384,Version1-raw,10,o.png,3349.920000000013,O,2,52,[MONO] ASI128_anzuelo_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:05:02,zbv1k1ax,15240384,Version1-raw,11,audio started,1517.5799999999872,Audio Clip,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:05:03,zbv1k1ax,15240384,Version1-raw,11,o.png,2500.579999999987,O,2,55,[MONO] ASI142_sapo_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:05:05,zbv1k1ax,15240384,Version1-raw,12,audio started,1500.7999999999884,Audio Clip,2,67,[MONO] ASI_bleno_analyzable.mp3
+23/02/2026 17:05:06,zbv1k1ax,15240384,Version1-raw,12,o.png,2850.1199999999953,O,2,67,[MONO] ASI_bleno_analyzable.mp3
+23/02/2026 17:05:08,zbv1k1ax,15240384,Version1-raw,13,audio started,1517.3399999999965,Audio Clip,2,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+23/02/2026 17:05:09,zbv1k1ax,15240384,Version1-raw,13,a.png,2717.0400000000373,A,1,12,[MONO] ASI128_pala_alt_analyzable_v_raw.mp3
+23/02/2026 17:05:10,zbv1k1ax,15240384,Version1-raw,14,audio started,1518.359999999986,Audio Clip,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:05:12,zbv1k1ax,15240384,Version1-raw,14,o.png,2820.359999999986,O,2,33,[MONO] HSS143_nudo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:05:13,zbv1k1ax,15240384,Version1-raw,15,audio started,1501.5400000000081,Audio Clip,2,71,[MONO] ASI_kecho_analyzable.mp3
+23/02/2026 17:05:15,zbv1k1ax,15240384,Version1-raw,15,o.png,3200.540000000008,O,2,71,[MONO] ASI_kecho_analyzable.mp3
+23/02/2026 17:05:16,zbv1k1ax,15240384,Version1-raw,16,audio started,1517.4200000000128,Audio Clip,2,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:05:17,zbv1k1ax,15240384,Version1-raw,16,o.png,2421.420000000013,O,2,20,[MONO] ASI146_palo_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:05:19,zbv1k1ax,15240384,Version1-raw,17,audio started,1501.6600000000035,Audio Clip,2,94,[MONO] HSS_kecha_unanalyzable2.mp3
+23/02/2026 17:05:20,zbv1k1ax,15240384,Version1-raw,17,a.png,2650.8000000000175,A,1,94,[MONO] HSS_kecha_unanalyzable2.mp3
+23/02/2026 17:05:21,zbv1k1ax,15240384,Version1-raw,18,audio started,1517.5199999999895,Audio Clip,2,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:05:23,zbv1k1ax,15240384,Version1-raw,18,a.png,2750.040000000008,A,1,43,[MONO] ASI142_luna_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:05:24,zbv1k1ax,15240384,Version1-raw,19,audio started,1518.179999999993,Audio Clip,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+23/02/2026 17:05:25,zbv1k1ax,15240384,Version1-raw,19,o.png,2667.179999999993,O,2,83,[MONO] HSS_bleno_unanalyzable3.mp3
+23/02/2026 17:05:27,zbv1k1ax,15240384,Version1-raw,20,audio started,1518.1600000000035,Audio Clip,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+23/02/2026 17:05:28,zbv1k1ax,15240384,Version1-raw,20,o.png,2932.579999999987,O,2,81,[MONO] HSS_bleno_unanalyzable1.mp3
+23/02/2026 17:05:30,zbv1k1ax,15240384,Version1-raw,21,audio started,1500.640000000014,Audio Clip,2,73,[MONO] HSS_fada_analyzable.mp3
+23/02/2026 17:05:32,zbv1k1ax,15240384,Version1-raw,21,a.png,4168.600000000006,A,1,73,[MONO] HSS_fada_analyzable.mp3
+23/02/2026 17:05:34,zbv1k1ax,15240384,Version1-raw,22,audio started,1519.179999999993,Audio Clip,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+23/02/2026 17:05:35,zbv1k1ax,15240384,Version1-raw,22,o.png,3190.179999999993,O,2,1,[MONO] HSS122_camarero_alt_analyzable_v_raw.mp3
+23/02/2026 17:05:37,zbv1k1ax,15240384,Version1-raw,23,audio started,1501,Audio Clip,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+23/02/2026 17:05:38,zbv1k1ax,15240384,Version1-raw,23,o.png,2505,O,2,88,[MONO] ASI_sato_unanalyzable2.mp3
+23/02/2026 17:05:39,zbv1k1ax,15240384,Version1-raw,24,audio started,1502.0199999999895,Audio Clip,2,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:05:41,zbv1k1ax,15240384,Version1-raw,24,a.png,3071.0199999999895,A,1,63,[MONO] ASI128_lechuza_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:05:48,zbv1k1ax,15240384,Version1-raw,25,audio started,1501.5799999999872,Audio Clip,2,77,[MONO] HSS_nija_analyzable.mp3
+23/02/2026 17:05:50,zbv1k1ax,15240384,Version1-raw,25,a.png,3052.579999999987,A,1,77,[MONO] HSS_nija_analyzable.mp3
+23/02/2026 17:05:52,zbv1k1ax,15240384,Version1-raw,26,audio started,1517.7000000000116,Audio Clip,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+23/02/2026 17:05:53,zbv1k1ax,15240384,Version1-raw,26,o.png,2900.719999999972,O,2,87,[MONO] ASI_sato_unanalyzable1.mp3
+23/02/2026 17:05:54,zbv1k1ax,15240384,Version1-raw,27,audio started,1517.640000000014,Audio Clip,2,70,[MONO] ASI_gapo_analyzable.mp3
+23/02/2026 17:05:56,zbv1k1ax,15240384,Version1-raw,27,o.png,2800.640000000014,O,2,70,[MONO] ASI_gapo_analyzable.mp3
+23/02/2026 17:05:57,zbv1k1ax,15240384,Version1-raw,28,audio started,1517.320000000007,Audio Clip,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:05:59,zbv1k1ax,15240384,Version1-raw,28,o.png,3333.2600000000093,O,2,54,[MONO] HSS145_vaso_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:01,zbv1k1ax,15240384,Version1-raw,29,audio started,1517.7200000000012,Audio Clip,2,66,[MONO] HSS_nogo_analyzable.mp3
+23/02/2026 17:06:02,zbv1k1ax,15240384,Version1-raw,29,o.png,3115.5,O,2,66,[MONO] HSS_nogo_analyzable.mp3
+23/02/2026 17:06:04,zbv1k1ax,15240384,Version1-raw,30,audio started,1501.320000000007,Audio Clip,2,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:05,zbv1k1ax,15240384,Version1-raw,30,a.png,2748.7000000000116,A,1,47,[MONO] ASI132_camisa_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:06,zbv1k1ax,15240384,Version1-raw,31,audio started,1502.3800000000047,Audio Clip,2,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:08,zbv1k1ax,15240384,Version1-raw,31,a.png,2974.3800000000047,A,1,25,[MONO] HSS141_maestra_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:09,zbv1k1ax,15240384,Version1-raw,32,audio started,1501.320000000007,Audio Clip,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:11,zbv1k1ax,15240384,Version1-raw,32,o.png,2751.0999999999767,O,2,38,[MONO] HSS129_mosquito_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:12,zbv1k1ax,15240384,Version1-raw,33,audio started,1517.5400000000081,Audio Clip,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:13,zbv1k1ax,15240384,Version1-raw,33,o.png,2643.540000000008,O,2,53,[MONO] HSS143_zapato_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:15,zbv1k1ax,15240384,Version1-raw,34,audio started,1518.140000000014,Audio Clip,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:16,zbv1k1ax,15240384,Version1-raw,34,o.png,2738.140000000014,O,2,17,[MONO] HSS113_camarero_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:17,zbv1k1ax,15240384,Version1-raw,35,audio started,1501.7999999999884,Audio Clip,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:19,zbv1k1ax,15240384,Version1-raw,35,o.png,2907.7999999999884,O,2,19,[MONO] ASI119_nino_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:20,zbv1k1ax,15240384,Version1-raw,36,audio started,1501.8399999999965,Audio Clip,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:06:22,zbv1k1ax,15240384,Version1-raw,36,o.png,3052.8399999999965,O,2,35,[MONO] ASI148_anillo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:06:23,zbv1k1ax,15240384,Version1-raw,37,audio started,1502.039999999979,Audio Clip,2,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:24,zbv1k1ax,15240384,Version1-raw,37,a.png,2615.719999999914,A,1,45,[MONO] HSS143_caja_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:26,zbv1k1ax,15240384,Version1-raw,38,audio started,1502.0200000000186,Audio Clip,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:27,zbv1k1ax,15240384,Version1-raw,38,o.png,2550.1399999999558,O,2,5,[MONO] HSS126_brujo_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:29,zbv1k1ax,15240384,Version1-raw,39,audio started,1501.280000000028,Audio Clip,2,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:30,zbv1k1ax,15240384,Version1-raw,39,a.png,2623.280000000028,A,1,31,[MONO] ASI142_puerta_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:31,zbv1k1ax,15240384,Version1-raw,40,audio started,1502.1199999999953,Audio Clip,2,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:32,zbv1k1ax,15240384,Version1-raw,40,a.png,2453.1199999999953,A,1,13,[MONO] HSS138_puerta_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:34,zbv1k1ax,15240384,Version1-raw,41,audio started,1501.179999999993,Audio Clip,2,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:06:35,zbv1k1ax,15240384,Version1-raw,41,a.png,3085.179999999993,A,1,42,[MONO] HSS113_tortuga_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:06:37,zbv1k1ax,15240384,Version1-raw,42,audio started,1501.9000000000233,Audio Clip,2,93,[MONO] HSS_kecha_unanalyzable1.mp3
+23/02/2026 17:06:38,zbv1k1ax,15240384,Version1-raw,42,a.png,3070.9000000000233,A,1,93,[MONO] HSS_kecha_unanalyzable1.mp3
+23/02/2026 17:06:40,zbv1k1ax,15240384,Version1-raw,43,audio started,1502.1599999999744,Audio Clip,2,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:41,zbv1k1ax,15240384,Version1-raw,43,a.png,2835.1599999999744,A,1,30,[MONO] HSS143_payasa_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:43,zbv1k1ax,15240384,Version1-raw,44,audio started,1501.5800000000163,Audio Clip,2,91,[MONO] ASI_noga_unanalyzable1.mp3
+23/02/2026 17:06:44,zbv1k1ax,15240384,Version1-raw,44,a.png,3367.0999999999767,A,1,91,[MONO] ASI_noga_unanalyzable1.mp3
+23/02/2026 17:06:46,zbv1k1ax,15240384,Version1-raw,45,audio started,1516.0800000000163,Audio Clip,2,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:47,zbv1k1ax,15240384,Version1-raw,45,a.png,2922.0800000000163,A,1,48,[MONO] ASI132_artista_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:49,zbv1k1ax,15240384,Version1-raw,46,audio started,1501.3800000000047,Audio Clip,2,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:51,zbv1k1ax,15240384,Version1-raw,46,a.png,3218.1199999999953,A,1,28,[MONO] ASI146_panadera_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:06:52,zbv1k1ax,15240384,Version1-raw,47,audio started,1517.4400000000023,Audio Clip,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:53,zbv1k1ax,15240384,Version1-raw,47,o.png,2583.4400000000023,O,2,37,[MONO] HSS143_zapato_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:06:55,zbv1k1ax,15240384,Version1-raw,48,audio started,1502.0999999999767,Audio Clip,2,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:06:56,zbv1k1ax,15240384,Version1-raw,48,a.png,2616.979999999923,A,1,62,[MONO] HSS113_taza_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:02,zbv1k1ax,15240384,Version1-raw,49,audio started,1501.9000000000233,Audio Clip,2,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+23/02/2026 17:07:03,zbv1k1ax,15240384,Version1-raw,49,a.png,2852.9000000000233,A,1,11,[MONO] ASI146_cocinera_alt_analyzable_v_raw.mp3
+23/02/2026 17:07:05,zbv1k1ax,15240384,Version1-raw,50,audio started,1502.9400000000023,Audio Clip,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:06,zbv1k1ax,15240384,Version1-raw,50,o.png,2892.9400000000023,O,2,21,[MONO] HSS113_plato_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:08,zbv1k1ax,15240384,Version1-raw,51,audio started,1501.5999999999767,Audio Clip,2,80,[MONO] ASI_kecha_analyzable.mp3
+23/02/2026 17:07:09,zbv1k1ax,15240384,Version1-raw,51,a.png,2850.939999999944,A,1,80,[MONO] ASI_kecha_analyzable.mp3
+23/02/2026 17:07:11,zbv1k1ax,15240384,Version1-raw,52,audio started,1517.3400000000256,Audio Clip,2,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:07:12,zbv1k1ax,15240384,Version1-raw,52,a.png,2999.3400000000256,A,1,44,[MONO] ASI142_sombrilla_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:07:14,zbv1k1ax,15240384,Version1-raw,53,audio started,1501.1599999999744,Audio Clip,2,68,[MONO] ASI_crolo_analyzable.mp3
+23/02/2026 17:07:15,zbv1k1ax,15240384,Version1-raw,53,o.png,3068.1599999999744,O,2,68,[MONO] ASI_crolo_analyzable.mp3
+23/02/2026 17:07:17,zbv1k1ax,15240384,Version1-raw,54,audio started,1501.4400000000023,Audio Clip,2,76,[MONO] ASI_crola_analyzable.mp3
+23/02/2026 17:07:18,zbv1k1ax,15240384,Version1-raw,54,a.png,2799.219999999972,A,1,76,[MONO] ASI_crola_analyzable.mp3
+23/02/2026 17:07:19,zbv1k1ax,15240384,Version1-raw,55,audio started,1518.0200000000186,Audio Clip,2,74,[MONO] HSS_noga_analyzable.mp3
+23/02/2026 17:07:22,zbv1k1ax,15240384,Version1-raw,55,a.png,3691.0200000000186,A,1,74,[MONO] HSS_noga_analyzable.mp3
+23/02/2026 17:07:23,zbv1k1ax,15240384,Version1-raw,56,audio started,1500.7999999999884,Audio Clip,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:07:24,zbv1k1ax,15240384,Version1-raw,56,o.png,2765.5599999999395,O,2,6,[MONO] HSS113_viejito_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:07:26,zbv1k1ax,15240384,Version1-raw,57,audio started,1500.9000000000233,Audio Clip,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+23/02/2026 17:07:27,zbv1k1ax,15240384,Version1-raw,57,o.png,2653.8400000000256,O,2,85,[MONO] ASI_gapo_unanalyzable.mp3
+23/02/2026 17:07:29,zbv1k1ax,15240384,Version1-raw,58,audio started,1501.9400000000023,Audio Clip,2,90,[MONO] HSS_fada_unanalyzable2.mp3
+23/02/2026 17:07:30,zbv1k1ax,15240384,Version1-raw,58,a.png,2769.9400000000023,A,1,90,[MONO] HSS_fada_unanalyzable2.mp3
+23/02/2026 17:07:31,zbv1k1ax,15240384,Version1-raw,59,audio started,1501.320000000007,Audio Clip,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:32,zbv1k1ax,15240384,Version1-raw,59,o.png,2543.320000000007,O,2,24,[MONO] ASI128_peso_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:34,zbv1k1ax,15240384,Version1-raw,60,audio started,1500.9199999999837,Audio Clip,2,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:07:35,zbv1k1ax,15240384,Version1-raw,60,a.png,2583.319999999949,A,1,27,[MONO] ASI119_pala_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:07:36,zbv1k1ax,15240384,Version1-raw,61,audio started,1501.320000000007,Audio Clip,2,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:07:38,zbv1k1ax,15240384,Version1-raw,61,a.png,2635.0599999999977,A,1,41,[MONO] HSS143_cuchara_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:07:39,zbv1k1ax,15240384,Version1-raw,62,audio started,1517.7600000000093,Audio Clip,2,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:07:40,zbv1k1ax,15240384,Version1-raw,62,a.png,2733.3000000000466,A,1,15,[MONO] ASI132_bruja_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:07:42,zbv1k1ax,15240384,Version1-raw,63,audio started,1518.1199999999953,Audio Clip,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:07:43,zbv1k1ax,15240384,Version1-raw,63,o.png,2799.5,O,2,40,[MONO] ASI148_barco_nonalt_analyzable_v-less_raw.mp3
+23/02/2026 17:07:45,zbv1k1ax,15240384,Version1-raw,64,audio started,1501.0599999999977,Audio Clip,2,72,[MONO] ASI_nijo_analyzable.mp3
+23/02/2026 17:07:46,zbv1k1ax,15240384,Version1-raw,64,o.png,2750.0599999999977,O,2,72,[MONO] ASI_nijo_analyzable.mp3
+23/02/2026 17:07:47,zbv1k1ax,15240384,Version1-raw,65,audio started,1517.780000000028,Audio Clip,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+23/02/2026 17:07:48,zbv1k1ax,15240384,Version1-raw,65,o.png,2750.079999999958,O,2,4,[MONO] ASI128_cocinero_analyzable_v_raw.mp3
+23/02/2026 17:07:50,zbv1k1ax,15240384,Version1-raw,66,audio started,1516.280000000028,Audio Clip,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:07:51,zbv1k1ax,15240384,Version1-raw,66,o.png,2702.280000000028,O,2,49,[MONO] HSS138_regalo_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:07:53,zbv1k1ax,15240384,Version1-raw,67,audio started,1500.8800000000047,Audio Clip,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:54,zbv1k1ax,15240384,Version1-raw,67,o.png,3001.499999999942,O,2,56,[MONO] ASI146_gancho_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:07:56,zbv1k1ax,15240384,Version1-raw,68,audio started,1516.960000000021,Audio Clip,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+23/02/2026 17:07:57,zbv1k1ax,15240384,Version1-raw,68,o.png,2851.960000000021,O,2,82,[MONO] HSS_bleno_unanalyzable2.mp3
+23/02/2026 17:07:59,zbv1k1ax,15240384,Version1-raw,69,audio started,1501.960000000021,Audio Clip,2,79,[MONO] ASI_gapa_analyzable.mp3
+23/02/2026 17:08:00,zbv1k1ax,15240384,Version1-raw,69,a.png,2932.7200000000885,A,1,79,[MONO] ASI_gapa_analyzable.mp3
+23/02/2026 17:08:01,zbv1k1ax,15240384,Version1-raw,70,audio started,1501.219999999972,Audio Clip,2,65,[MONO] HSS_fado_analyzable.mp3
+23/02/2026 17:08:03,zbv1k1ax,15240384,Version1-raw,70,o.png,3484.179999999993,O,2,65,[MONO] HSS_fado_analyzable.mp3
+23/02/2026 17:08:05,zbv1k1ax,15240384,Version1-raw,71,audio started,1517.7399999999907,Audio Clip,2,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:06,zbv1k1ax,15240384,Version1-raw,71,a.png,2883.240000000049,A,1,59,[MONO] ASI146_ballena_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:08,zbv1k1ax,15240384,Version1-raw,72,audio started,1500.1599999999744,Audio Clip,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:09,zbv1k1ax,15240384,Version1-raw,72,o.png,2735.1599999999744,O,2,18,[MONO] HSS145_rayo_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:15,zbv1k1ax,15240384,Version1-raw,73,audio started,1501.780000000028,Audio Clip,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+23/02/2026 17:08:16,zbv1k1ax,15240384,Version1-raw,73,o.png,2615.7399999999907,O,2,2,[MONO] HSS145_rayo_alt_analyzable_v_raw.mp3
+23/02/2026 17:08:18,zbv1k1ax,15240384,Version1-raw,74,audio started,1517.820000000007,Audio Clip,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:08:19,zbv1k1ax,15240384,Version1-raw,74,o.png,2754.820000000007,O,2,34,[MONO] HSS129_caramelo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:08:21,zbv1k1ax,15240384,Version1-raw,75,audio started,1500.9000000000233,Audio Clip,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:22,zbv1k1ax,15240384,Version1-raw,75,o.png,2467.100000000035,O,2,32,[MONO] ASI119_gata_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:23,zbv1k1ax,15240384,Version1-raw,76,audio started,1517.7399999999907,Audio Clip,2,96,[MONO] ASI_sata_unanalyzable.mp3
+23/02/2026 17:08:25,zbv1k1ax,15240384,Version1-raw,76,a.png,3600.5199999999604,A,1,96,[MONO] ASI_sata_unanalyzable.mp3
+23/02/2026 17:08:27,zbv1k1ax,15240384,Version1-raw,77,audio started,1516.8800000000047,Audio Clip,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:28,zbv1k1ax,15240384,Version1-raw,77,o.png,2498.2600000000093,O,2,22,[MONO] HSS145_gato_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:29,zbv1k1ax,15240384,Version1-raw,78,audio started,1501.359999999986,Audio Clip,2,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:30,zbv1k1ax,15240384,Version1-raw,78,a.png,2788.359999999986,A,1,60,[MONO] ASI119_guitarra_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:32,zbv1k1ax,15240384,Version1-raw,79,audio started,1501.5599999999977,Audio Clip,2,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:33,zbv1k1ax,15240384,Version1-raw,79,a.png,2650.1200000000536,A,1,23,[MONO] ASI146_puerto_alt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:35,zbv1k1ax,15240384,Version1-raw,80,audio started,1500.9799999999814,Audio Clip,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:36,zbv1k1ax,15240384,Version1-raw,80,o.png,2701.9799999999814,O,2,50,[MONO] HSS145_cuaderno_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:37,zbv1k1ax,15240384,Version1-raw,81,audio started,1501.7999999999884,Audio Clip,2,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:39,zbv1k1ax,15240384,Version1-raw,81,a.png,2887.7999999999884,A,1,61,[MONO] HSS143_mariposa_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:40,zbv1k1ax,15240384,Version1-raw,82,audio started,1501.4400000000023,Audio Clip,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:08:41,zbv1k1ax,15240384,Version1-raw,82,o.png,2384.2200000000303,O,2,7,[MONO] ASI132_gato_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:08:43,zbv1k1ax,15240384,Version1-raw,83,audio started,1517.9199999999837,Audio Clip,2,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:44,zbv1k1ax,15240384,Version1-raw,83,o.png,3086.9199999999837,O,2,26,[MONO] HSS113_raya_alt_unanalyzable_v_raw.mp3
+23/02/2026 17:08:46,zbv1k1ax,15240384,Version1-raw,84,audio started,1501.5,Audio Clip,2,69,[MONO] HSS_sato_analyzable.mp3
+23/02/2026 17:08:47,zbv1k1ax,15240384,Version1-raw,84,o.png,3149.4799999999814,O,2,69,[MONO] HSS_sato_analyzable.mp3
+23/02/2026 17:08:49,zbv1k1ax,15240384,Version1-raw,85,audio started,1502.0200000000186,Audio Clip,2,89,[MONO] HSS_fada_unanalyzable1.mp3
+23/02/2026 17:08:50,zbv1k1ax,15240384,Version1-raw,85,a.png,2815.500000000058,A,1,89,[MONO] HSS_fada_unanalyzable1.mp3
+23/02/2026 17:08:52,zbv1k1ax,15240384,Version1-raw,86,audio started,1502.2999999999884,Audio Clip,2,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:53,zbv1k1ax,15240384,Version1-raw,86,a.png,2734.179999999993,A,1,64,[MONO] ASI142_trenza_nonalt_unanalyzable_v-less_raw.mp3
+23/02/2026 17:08:54,zbv1k1ax,15240384,Version1-raw,87,audio started,1516.7999999999884,Audio Clip,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+23/02/2026 17:08:56,zbv1k1ax,15240384,Version1-raw,87,o.png,2849.2000000000116,O,2,3,[MONO] ASI148_maestro_alt_analyzable_v_raw.mp3
+23/02/2026 17:08:57,zbv1k1ax,15240384,Version1-raw,88,audio started,1501.359999999986,Audio Clip,2,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:08:58,zbv1k1ax,15240384,Version1-raw,88,a.png,2704.359999999986,A,1,16,[MONO] ASI146_plata_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:09:00,zbv1k1ax,15240384,Version1-raw,89,audio started,1502.539999999979,Audio Clip,2,92,[MONO] ASI_noga_unanalyzable2.mp3
+23/02/2026 17:09:01,zbv1k1ax,15240384,Version1-raw,89,a.png,2903.539999999979,A,1,92,[MONO] ASI_noga_unanalyzable2.mp3
+23/02/2026 17:09:03,zbv1k1ax,15240384,Version1-raw,90,audio started,1501.4799999999814,Audio Clip,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:09:04,zbv1k1ax,15240384,Version1-raw,90,o.png,2538.4799999999814,O,2,8,[MONO] ASI110_plato_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:09:05,zbv1k1ax,15240384,Version1-raw,91,audio started,1516.679999999993,Audio Clip,2,86,[MONO] ASI_kecho_unanalyable.mp3
+23/02/2026 17:09:07,zbv1k1ax,15240384,Version1-raw,91,o.png,3204.679999999993,O,2,86,[MONO] ASI_kecho_unanalyable.mp3
+23/02/2026 17:09:08,zbv1k1ax,15240384,Version1-raw,92,audio started,1501.9400000000023,Audio Clip,2,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:09:10,zbv1k1ax,15240384,Version1-raw,92,a.png,2889.9400000000023,A,1,58,[MONO] HSS145_cuchara_nonalt_unanalyzable_v_raw.mp3
+23/02/2026 17:09:11,zbv1k1ax,15240384,Version1-raw,93,audio started,1501.9799999999814,Audio Clip,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:09:12,zbv1k1ax,15240384,Version1-raw,93,o.png,2516.899999999907,O,2,36,[MONO] ASI148_nudo_nonalt_analyzable_v_raw.mp3
+23/02/2026 17:09:14,zbv1k1ax,15240384,Version1-raw,94,audio started,1500.4000000000233,Audio Clip,2,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+23/02/2026 17:09:16,zbv1k1ax,15240384,Version1-raw,94,a.png,3617.0200000000186,A,1,78,[MONO] HSS_sata_analyzable-hipitch.mp3
+23/02/2026 17:09:17,zbv1k1ax,15240384,Version1-raw,95,audio started,1518.0800000000163,Audio Clip,2,95,[MONO] HSS_sata_unanalyzable.mp3
+23/02/2026 17:09:19,zbv1k1ax,15240384,Version1-raw,95,a.png,2700.3800000000047,A,1,95,[MONO] HSS_sata_unanalyzable.mp3
+23/02/2026 17:09:20,zbv1k1ax,15240384,Version1-raw,96,audio started,1501.0599999999977,Audio Clip,2,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3
+23/02/2026 17:09:21,zbv1k1ax,15240384,Version1-raw,96,a.png,2766.899999999965,A,1,14,[MONO] HSS141_coneja_alt_analyzable_v-less_raw.mp3

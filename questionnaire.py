@@ -84,7 +84,7 @@ def filter_csv_columns(input_file, output_file, columns):
 if __name__ == "__main__":
     # Example usage (select by index)
     input_csv = "Download_raw_Feb24-2026-NewNewprotocol_10participants/data_exp_258706-v2_questionnaire-6fz5.csv"
-    output_csv = "questionnaire_output.csv"
+    output_csv = "output/questionnaire_output.csv"
     # indices corresponding to requested columns
     # F,I,L,M,O,AC,AD,AE,AF,AG,AH,AI,AM,AO,AP,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ,
     # BA,BB,BC,BD,BE,BF,BG,BI,BJ,BL,BM,BN,BP,BS,BT,BU,BV,BW
